@@ -15,7 +15,7 @@ https://gauge.org/
 https://taiko.dev/
 
 
-**Repoository owner**
+**Repository owner**
 
 https://www.linkedin.com/in/tuba-tosunoglu/
 
