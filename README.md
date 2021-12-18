@@ -1,1 +1,1 @@
-# S1E12-gauge-taiko-js
+# S1E12 -  Test Automation with Gauge + Taiko
