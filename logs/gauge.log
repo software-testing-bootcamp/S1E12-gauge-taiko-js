@@ -1,0 +1,1857 @@
+16-12-2021 21:44:45.127 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/.gauge/screenshots
+16-12-2021 21:44:45.130 [Gauge] [DEBUG] Plugin js is already installed.
+16-12-2021 21:44:45.130 [Gauge] [DEBUG] Plugin html-report is already installed.
+16-12-2021 21:44:45.132 [Gauge] [DEBUG] Parsing started.
+16-12-2021 21:44:45.132 [Gauge] [DEBUG] Started concepts parsing.
+16-12-2021 21:44:45.354 [Gauge] [DEBUG] 0 concepts parsing completed.
+16-12-2021 21:44:45.354 [Gauge] [DEBUG] Started specifications parsing.
+16-12-2021 21:44:45.354 [Gauge] [ERROR] [ParseError] /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/specs/example.spec:4 Scenario should have atleast one step => ''
+16-12-2021 21:44:45.354 [Gauge] [DEBUG] 1 specifications parsing completed.
+16-12-2021 21:44:45.356 [Gauge] [DEBUG] Parsing completed.
+16-12-2021 21:44:45.761 [Gauge] [DEBUG] Checking updates...
+16-12-2021 21:44:45.761 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 21:44:45.778 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 50916
+16-12-2021 21:44:45.784 [Gauge] [DEBUG] Successfully made the connection with runner with port: 50916
+16-12-2021 21:44:45.784 [Gauge] [DEBUG] Validation started.
+16-12-2021 21:44:45.784 [Gauge] [DEBUG] Validation completed.
+16-12-2021 21:44:45.785 [Gauge] [DEBUG] Run started
+16-12-2021 21:44:45.786 [Gauge] [DEBUG] Starting Html Report plugin
+16-12-2021 21:44:45.835 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 50921
+16-12-2021 21:44:45.837 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 50921
+16-12-2021 21:44:45.837 [Gauge] [DEBUG] Initialising suite data store.
+16-12-2021 21:44:46.164 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 21:44:46.311 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 21:44:52.292 [Gauge] [INFO] # Sign In Scenarios
+16-12-2021 21:44:52.323 [Gauge] [INFO] ## Sign in success
+16-12-2021 21:44:52.559 [html-report] [DEBUG] Transformed SuiteResult to report structure
+16-12-2021 21:44:52.630 [html-report] [INFO] Successfully generated html-report to => /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/reports/html-report/index.html
+16-12-2021 21:44:52.630 [html-report] [DEBUG] Done generating HTML report using theme from /Users/tuba.tosunoglu/.gauge/plugins/html-report/4.0.12/themes/default
+16-12-2021 21:44:52.631 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+16-12-2021 21:44:52.841 [Gauge] [DEBUG] Runner with PID:4035 has exited
+16-12-2021 21:44:52.844 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+16-12-2021 21:44:52.844 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+16-12-2021 21:44:52.844 [Gauge] [INFO] 
+Total time taken: 6.77s
+16-12-2021 21:44:52.844 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+16-12-2021 21:45:01.693 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/.gauge/screenshots
+16-12-2021 21:45:01.694 [Gauge] [DEBUG] Plugin js is already installed.
+16-12-2021 21:45:01.695 [Gauge] [DEBUG] Plugin html-report is already installed.
+16-12-2021 21:45:01.695 [Gauge] [DEBUG] Parsing started.
+16-12-2021 21:45:01.695 [Gauge] [DEBUG] Started concepts parsing.
+16-12-2021 21:45:01.871 [Gauge] [DEBUG] 0 concepts parsing completed.
+16-12-2021 21:45:01.871 [Gauge] [DEBUG] Started specifications parsing.
+16-12-2021 21:45:01.871 [Gauge] [ERROR] [ParseError] /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/specs/example.spec:4 Scenario should have atleast one step => ''
+16-12-2021 21:45:01.871 [Gauge] [DEBUG] 1 specifications parsing completed.
+16-12-2021 21:45:01.871 [Gauge] [DEBUG] Parsing completed.
+16-12-2021 21:45:02.229 [Gauge] [DEBUG] Checking updates...
+16-12-2021 21:45:02.230 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 21:45:02.262 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 50946
+16-12-2021 21:45:02.265 [Gauge] [DEBUG] Successfully made the connection with runner with port: 50946
+16-12-2021 21:45:02.265 [Gauge] [DEBUG] Validation started.
+16-12-2021 21:45:02.265 [Gauge] [DEBUG] Validation completed.
+16-12-2021 21:45:02.265 [Gauge] [DEBUG] Run started
+16-12-2021 21:45:02.265 [Gauge] [DEBUG] Starting Html Report plugin
+16-12-2021 21:45:02.276 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 50951
+16-12-2021 21:45:02.277 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 50951
+16-12-2021 21:45:02.277 [Gauge] [DEBUG] Initialising suite data store.
+16-12-2021 21:45:02.490 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 21:45:02.649 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 21:45:04.362 [Gauge] [INFO] # Sign In Scenarios
+16-12-2021 21:45:04.372 [Gauge] [INFO] ## Sign in success
+16-12-2021 21:45:04.592 [html-report] [DEBUG] Transformed SuiteResult to report structure
+16-12-2021 21:45:04.604 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+16-12-2021 21:45:04.604 [html-report] [INFO] Successfully generated html-report to => /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/reports/html-report/index.html
+16-12-2021 21:45:04.604 [html-report] [DEBUG] Done generating HTML report using theme from /Users/tuba.tosunoglu/.gauge/plugins/html-report/4.0.12/themes/default
+16-12-2021 21:45:04.815 [Gauge] [DEBUG] Runner with PID:4096 has exited
+16-12-2021 21:45:04.815 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+16-12-2021 21:45:04.815 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+16-12-2021 21:45:04.815 [Gauge] [INFO] 
+Total time taken: 2.326s
+16-12-2021 21:45:04.815 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+16-12-2021 21:45:14.959 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/.gauge/screenshots
+16-12-2021 21:45:14.960 [Gauge] [DEBUG] Plugin js is already installed.
+16-12-2021 21:45:14.960 [Gauge] [DEBUG] Plugin html-report is already installed.
+16-12-2021 21:45:14.962 [Gauge] [DEBUG] Parsing started.
+16-12-2021 21:45:14.962 [Gauge] [DEBUG] Started concepts parsing.
+16-12-2021 21:45:15.121 [Gauge] [DEBUG] 0 concepts parsing completed.
+16-12-2021 21:45:15.122 [Gauge] [DEBUG] Started specifications parsing.
+16-12-2021 21:45:15.122 [Gauge] [DEBUG] 1 specifications parsing completed.
+16-12-2021 21:45:15.122 [Gauge] [DEBUG] Parsing completed.
+16-12-2021 21:45:15.446 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 50971
+16-12-2021 21:45:15.447 [Gauge] [DEBUG] Checking updates...
+16-12-2021 21:45:15.448 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 21:45:15.449 [Gauge] [DEBUG] Successfully made the connection with runner with port: 50971
+16-12-2021 21:45:15.449 [Gauge] [DEBUG] Validation started.
+16-12-2021 21:45:15.462 [Gauge] [DEBUG] Validation completed.
+16-12-2021 21:45:15.462 [Gauge] [DEBUG] Run started
+16-12-2021 21:45:15.463 [Gauge] [DEBUG] Starting Html Report plugin
+16-12-2021 21:45:15.479 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 50976
+16-12-2021 21:45:15.480 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 50976
+16-12-2021 21:45:15.480 [Gauge] [DEBUG] Initialising suite data store.
+16-12-2021 21:45:16.358 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 21:45:16.516 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 21:45:17.450 [Gauge] [INFO] # Sign In Scenarios
+16-12-2021 21:45:17.469 [Gauge] [INFO] ## Sign in success
+16-12-2021 21:45:17.489 [Gauge] [DEBUG] * Sign in
+16-12-2021 21:45:28.102 [Gauge] [ERROR] 
+Failed Step: Sign in
+16-12-2021 21:45:28.103 [Gauge] [ERROR] Specification: specs/example.spec:5
+16-12-2021 21:45:28.103 [Gauge] [ERROR] Error Message: {}
+16-12-2021 21:45:28.103 [Gauge] [ERROR] Stacktrace: 
+ReferenceError: toRightOf is not defined
+    at Object.<anonymous> (tests/step_implementation.js:49:48)
+16-12-2021 21:45:28.360 [html-report] [DEBUG] Transformed SuiteResult to report structure
+16-12-2021 21:45:28.372 [html-report] [INFO] Successfully generated html-report to => /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/reports/html-report/index.html
+16-12-2021 21:45:28.372 [html-report] [DEBUG] Done generating HTML report using theme from /Users/tuba.tosunoglu/.gauge/plugins/html-report/4.0.12/themes/default
+16-12-2021 21:45:28.372 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+16-12-2021 21:45:28.580 [Gauge] [DEBUG] Runner with PID:4123 has exited
+16-12-2021 21:45:28.580 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+16-12-2021 21:45:28.580 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+16-12-2021 21:45:28.580 [Gauge] [INFO] 
+Total time taken: 12.896s
+16-12-2021 21:45:28.580 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+16-12-2021 21:46:41.484 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/.gauge/screenshots
+16-12-2021 21:46:41.488 [Gauge] [DEBUG] Plugin html-report is already installed.
+16-12-2021 21:46:41.489 [Gauge] [DEBUG] Plugin js is already installed.
+16-12-2021 21:46:41.490 [Gauge] [DEBUG] Parsing started.
+16-12-2021 21:46:41.490 [Gauge] [DEBUG] Started concepts parsing.
+16-12-2021 21:46:41.634 [Gauge] [DEBUG] 0 concepts parsing completed.
+16-12-2021 21:46:41.635 [Gauge] [DEBUG] Started specifications parsing.
+16-12-2021 21:46:41.635 [Gauge] [DEBUG] 1 specifications parsing completed.
+16-12-2021 21:46:41.635 [Gauge] [DEBUG] Parsing completed.
+16-12-2021 21:46:41.943 [Gauge] [DEBUG] Checking updates...
+16-12-2021 21:46:41.943 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 21:46:42.021 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51029
+16-12-2021 21:46:42.026 [Gauge] [DEBUG] Successfully made the connection with runner with port: 51029
+16-12-2021 21:46:42.026 [Gauge] [DEBUG] Validation started.
+16-12-2021 21:46:42.041 [Gauge] [DEBUG] Validation completed.
+16-12-2021 21:46:42.041 [Gauge] [DEBUG] Run started
+16-12-2021 21:46:42.041 [Gauge] [DEBUG] Starting Html Report plugin
+16-12-2021 21:46:42.053 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51035
+16-12-2021 21:46:42.054 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 51035
+16-12-2021 21:46:42.054 [Gauge] [DEBUG] Initialising suite data store.
+16-12-2021 21:46:42.508 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 21:46:42.652 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 21:46:44.128 [Gauge] [INFO] # Sign In Scenarios
+16-12-2021 21:46:44.147 [Gauge] [INFO] ## Sign in success
+16-12-2021 21:46:44.161 [Gauge] [DEBUG] * Sign in
+16-12-2021 21:47:06.566 [html-report] [DEBUG] Transformed SuiteResult to report structure
+16-12-2021 21:47:06.574 [html-report] [INFO] Successfully generated html-report to => /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/reports/html-report/index.html
+16-12-2021 21:47:06.574 [html-report] [DEBUG] Done generating HTML report using theme from /Users/tuba.tosunoglu/.gauge/plugins/html-report/4.0.12/themes/default
+16-12-2021 21:47:06.574 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+16-12-2021 21:47:06.786 [Gauge] [DEBUG] Runner with PID:4162 has exited
+16-12-2021 21:47:06.787 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+16-12-2021 21:47:06.787 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+16-12-2021 21:47:06.787 [Gauge] [INFO] 
+Total time taken: 24.525s
+16-12-2021 21:47:06.787 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+16-12-2021 21:55:25.900 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/.gauge/screenshots
+16-12-2021 21:55:25.901 [Gauge] [DEBUG] Plugin html-report is already installed.
+16-12-2021 21:55:25.902 [Gauge] [DEBUG] Plugin js is already installed.
+16-12-2021 21:55:25.902 [Gauge] [DEBUG] Parsing started.
+16-12-2021 21:55:25.902 [Gauge] [DEBUG] Started concepts parsing.
+16-12-2021 21:55:26.035 [Gauge] [DEBUG] 1 concepts parsing completed.
+16-12-2021 21:55:26.035 [Gauge] [DEBUG] Started specifications parsing.
+16-12-2021 21:55:26.035 [Gauge] [DEBUG] 1 specifications parsing completed.
+16-12-2021 21:55:26.035 [Gauge] [DEBUG] Parsing completed.
+16-12-2021 21:55:26.357 [Gauge] [DEBUG] Checking updates...
+16-12-2021 21:55:26.358 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 21:55:26.453 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51125
+16-12-2021 21:55:26.456 [Gauge] [DEBUG] Successfully made the connection with runner with port: 51125
+16-12-2021 21:55:26.456 [Gauge] [DEBUG] Validation started.
+16-12-2021 21:55:26.475 [Gauge] [DEBUG] Validation completed.
+16-12-2021 21:55:26.475 [Gauge] [DEBUG] Run started
+16-12-2021 21:55:26.476 [Gauge] [DEBUG] Starting Html Report plugin
+16-12-2021 21:55:26.536 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51130
+16-12-2021 21:55:26.537 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 51130
+16-12-2021 21:55:26.537 [Gauge] [DEBUG] Initialising suite data store.
+16-12-2021 21:55:26.687 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 21:55:26.812 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 21:55:28.882 [Gauge] [INFO] # Sign In Scenarios
+16-12-2021 21:55:28.933 [Gauge] [INFO] ## Sign in with concept
+16-12-2021 21:55:28.960 [Gauge] [DEBUG] * Go to url
+
+16-12-2021 21:55:32.187 [Gauge] [DEBUG] * Login with username and password
+16-12-2021 21:55:32.187 [Gauge] [DEBUG] * Click sign in
+16-12-2021 21:55:34.718 [Gauge] [DEBUG] * Enter username
+16-12-2021 21:55:35.981 [Gauge] [DEBUG] * Enter username
+16-12-2021 21:55:37.276 [Gauge] [DEBUG] * Click login
+16-12-2021 21:55:39.708 [Gauge] [DEBUG] * Username should be correct
+16-12-2021 21:55:40.000 [html-report] [DEBUG] Transformed SuiteResult to report structure
+16-12-2021 21:55:40.026 [html-report] [INFO] Successfully generated html-report to => /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/reports/html-report/index.html
+16-12-2021 21:55:40.026 [html-report] [DEBUG] Done generating HTML report using theme from /Users/tuba.tosunoglu/.gauge/plugins/html-report/4.0.12/themes/default
+16-12-2021 21:55:40.026 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+16-12-2021 21:55:40.240 [Gauge] [DEBUG] Runner with PID:4221 has exited
+16-12-2021 21:55:40.240 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+16-12-2021 21:55:40.241 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+16-12-2021 21:55:40.241 [Gauge] [INFO] 
+Total time taken: 13.52s
+16-12-2021 21:55:40.241 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+16-12-2021 21:57:21.485 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/.gauge/screenshots
+16-12-2021 21:57:21.486 [Gauge] [DEBUG] Plugin js is already installed.
+16-12-2021 21:57:21.487 [Gauge] [DEBUG] Plugin html-report is already installed.
+16-12-2021 21:57:21.488 [Gauge] [DEBUG] Parsing started.
+16-12-2021 21:57:21.488 [Gauge] [DEBUG] Started concepts parsing.
+16-12-2021 21:57:21.626 [Gauge] [DEBUG] 1 concepts parsing completed.
+16-12-2021 21:57:21.626 [Gauge] [DEBUG] Started specifications parsing.
+16-12-2021 21:57:21.626 [Gauge] [DEBUG] 1 specifications parsing completed.
+16-12-2021 21:57:21.626 [Gauge] [DEBUG] Parsing completed.
+16-12-2021 21:57:21.990 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51182
+16-12-2021 21:57:21.992 [Gauge] [DEBUG] Successfully made the connection with runner with port: 51182
+16-12-2021 21:57:21.992 [Gauge] [DEBUG] Validation started.
+16-12-2021 21:57:22.008 [Gauge] [DEBUG] Validation completed.
+16-12-2021 21:57:22.008 [Gauge] [DEBUG] Run started
+16-12-2021 21:57:22.008 [Gauge] [DEBUG] Starting Html Report plugin
+16-12-2021 21:57:22.020 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51187
+16-12-2021 21:57:22.021 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 51187
+16-12-2021 21:57:22.021 [Gauge] [DEBUG] Initialising suite data store.
+16-12-2021 21:57:22.287 [Gauge] [DEBUG] Checking updates...
+16-12-2021 21:57:22.287 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 21:57:22.820 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 21:57:22.944 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 21:57:24.254 [Gauge] [INFO] # Sign In Scenarios
+16-12-2021 21:57:24.271 [Gauge] [INFO] ## Sign in with concept
+16-12-2021 21:57:24.281 [Gauge] [DEBUG] * Go to url
+
+16-12-2021 21:57:29.148 [Gauge] [DEBUG] * Login with username and password
+16-12-2021 21:57:29.148 [Gauge] [DEBUG] * Click sign in
+16-12-2021 21:57:32.844 [Gauge] [DEBUG] * Enter username
+16-12-2021 21:57:34.087 [Gauge] [DEBUG] * Enter password
+16-12-2021 21:57:35.294 [Gauge] [DEBUG] * Click login
+16-12-2021 21:57:39.025 [Gauge] [DEBUG] * Username should be correct
+16-12-2021 21:57:39.272 [html-report] [DEBUG] Transformed SuiteResult to report structure
+16-12-2021 21:57:39.285 [html-report] [INFO] Successfully generated html-report to => /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/reports/html-report/index.html
+16-12-2021 21:57:39.285 [html-report] [DEBUG] Done generating HTML report using theme from /Users/tuba.tosunoglu/.gauge/plugins/html-report/4.0.12/themes/default
+16-12-2021 21:57:39.286 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+16-12-2021 21:57:39.498 [Gauge] [DEBUG] Runner with PID:4277 has exited
+16-12-2021 21:57:39.498 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+16-12-2021 21:57:39.498 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+16-12-2021 21:57:39.498 [Gauge] [INFO] 
+Total time taken: 17.263s
+16-12-2021 21:57:39.499 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+16-12-2021 22:06:01.533 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/.gauge/screenshots
+16-12-2021 22:06:01.534 [Gauge] [DEBUG] Plugin js is already installed.
+16-12-2021 22:06:01.535 [Gauge] [DEBUG] Plugin html-report is already installed.
+16-12-2021 22:06:01.535 [Gauge] [DEBUG] Parsing started.
+16-12-2021 22:06:01.535 [Gauge] [DEBUG] Started concepts parsing.
+16-12-2021 22:06:01.682 [Gauge] [DEBUG] 1 concepts parsing completed.
+16-12-2021 22:06:01.682 [Gauge] [DEBUG] Started specifications parsing.
+16-12-2021 22:06:01.683 [Gauge] [DEBUG] 1 specifications parsing completed.
+16-12-2021 22:06:01.683 [Gauge] [DEBUG] Parsing completed.
+16-12-2021 22:06:02.071 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51283
+16-12-2021 22:06:02.074 [Gauge] [DEBUG] Successfully made the connection with runner with port: 51283
+16-12-2021 22:06:02.074 [Gauge] [DEBUG] Validation started.
+16-12-2021 22:06:02.090 [Gauge] [DEBUG] Validation completed.
+16-12-2021 22:06:02.090 [Gauge] [DEBUG] Run started
+16-12-2021 22:06:02.090 [Gauge] [DEBUG] Starting Html Report plugin
+16-12-2021 22:06:02.101 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51288
+16-12-2021 22:06:02.103 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 51288
+16-12-2021 22:06:02.103 [Gauge] [DEBUG] Initialising suite data store.
+16-12-2021 22:06:02.356 [Gauge] [DEBUG] Checking updates...
+16-12-2021 22:06:02.357 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 22:06:03.257 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 22:06:03.448 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 22:06:04.208 [Gauge] [INFO] # Sign In Scenarios
+16-12-2021 22:06:04.222 [Gauge] [DEBUG] 
+   |user                  |passw  |
+   |----------------------|-------|
+   |wenoy99557@wolfpat.com|testing|
+16-12-2021 22:06:04.223 [Gauge] [INFO] ## Sign in with concept
+16-12-2021 22:06:04.242 [Gauge] [DEBUG] * Go to url
+
+16-12-2021 22:06:11.481 [Gauge] [DEBUG] * Login with <user> and <passw>
+16-12-2021 22:06:11.482 [Gauge] [DEBUG] * Click sign in
+16-12-2021 22:06:13.877 [Gauge] [DEBUG] * Enter username: "wenoy99557@wolfpat.com"
+16-12-2021 22:06:15.113 [Gauge] [DEBUG] * Enter password: "testing"
+16-12-2021 22:06:16.331 [Gauge] [DEBUG] * Click login
+16-12-2021 22:06:18.808 [Gauge] [DEBUG] * Username should be correct
+16-12-2021 22:06:19.078 [html-report] [DEBUG] Transformed SuiteResult to report structure
+16-12-2021 22:06:19.094 [html-report] [INFO] Successfully generated html-report to => /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/reports/html-report/index.html
+16-12-2021 22:06:19.094 [html-report] [DEBUG] Done generating HTML report using theme from /Users/tuba.tosunoglu/.gauge/plugins/html-report/4.0.12/themes/default
+16-12-2021 22:06:19.094 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+16-12-2021 22:06:19.305 [Gauge] [DEBUG] Runner with PID:4367 has exited
+16-12-2021 22:06:19.305 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+16-12-2021 22:06:19.305 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+16-12-2021 22:06:19.306 [Gauge] [INFO] 
+Total time taken: 16.988s
+16-12-2021 22:06:19.308 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+16-12-2021 22:07:27.837 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/.gauge/screenshots
+16-12-2021 22:07:27.839 [Gauge] [DEBUG] Plugin js is already installed.
+16-12-2021 22:07:27.840 [Gauge] [DEBUG] Plugin html-report is already installed.
+16-12-2021 22:07:27.840 [Gauge] [DEBUG] Parsing started.
+16-12-2021 22:07:27.841 [Gauge] [DEBUG] Started concepts parsing.
+16-12-2021 22:07:28.076 [Gauge] [DEBUG] 1 concepts parsing completed.
+16-12-2021 22:07:28.076 [Gauge] [DEBUG] Started specifications parsing.
+16-12-2021 22:07:28.077 [Gauge] [DEBUG] 1 specifications parsing completed.
+16-12-2021 22:07:28.077 [Gauge] [DEBUG] Parsing completed.
+16-12-2021 22:07:28.304 [Gauge] [DEBUG] Checking updates...
+16-12-2021 22:07:28.304 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 22:07:28.444 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51348
+16-12-2021 22:07:28.447 [Gauge] [DEBUG] Successfully made the connection with runner with port: 51348
+16-12-2021 22:07:28.447 [Gauge] [DEBUG] Validation started.
+16-12-2021 22:07:28.462 [Gauge] [DEBUG] Validation completed.
+16-12-2021 22:07:28.462 [Gauge] [DEBUG] Run started
+16-12-2021 22:07:28.462 [Gauge] [DEBUG] Starting Html Report plugin
+16-12-2021 22:07:28.471 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51353
+16-12-2021 22:07:28.472 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 51353
+16-12-2021 22:07:28.472 [Gauge] [DEBUG] Initialising suite data store.
+16-12-2021 22:07:28.878 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 22:07:29.019 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 22:07:30.872 [Gauge] [INFO] # Sign In Scenarios
+16-12-2021 22:07:30.886 [Gauge] [DEBUG] 
+   |user                  |passw  |
+   |----------------------|-------|
+   |wenoy99557@wolfpat.com|testing|
+16-12-2021 22:07:30.886 [Gauge] [INFO] ## Sign in with concept
+16-12-2021 22:07:30.898 [Gauge] [DEBUG] * Go to url
+
+16-12-2021 22:07:34.917 [Gauge] [DEBUG] * Login with <user> and <passw>
+16-12-2021 22:07:34.917 [Gauge] [DEBUG] * Click sign in
+16-12-2021 22:07:37.453 [Gauge] [DEBUG] * Enter username: "wenoy99557@wolfpat.com"
+16-12-2021 22:07:38.670 [Gauge] [DEBUG] * Enter password: "testing"
+16-12-2021 22:07:39.863 [Gauge] [DEBUG] * Click login
+16-12-2021 22:07:43.536 [Gauge] [DEBUG] * Username should be correct
+16-12-2021 22:07:43.811 [html-report] [DEBUG] Transformed SuiteResult to report structure
+16-12-2021 22:07:43.821 [html-report] [INFO] Successfully generated html-report to => /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/reports/html-report/index.html
+16-12-2021 22:07:43.821 [html-report] [DEBUG] Done generating HTML report using theme from /Users/tuba.tosunoglu/.gauge/plugins/html-report/4.0.12/themes/default
+16-12-2021 22:07:43.821 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+16-12-2021 22:07:44.031 [Gauge] [DEBUG] Runner with PID:4410 has exited
+16-12-2021 22:07:44.032 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+16-12-2021 22:07:44.032 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+16-12-2021 22:07:44.032 [Gauge] [INFO] 
+Total time taken: 15.349s
+16-12-2021 22:07:44.032 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+16-12-2021 22:08:12.515 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/.gauge/screenshots
+16-12-2021 22:08:12.516 [Gauge] [DEBUG] Plugin js is already installed.
+16-12-2021 22:08:12.517 [Gauge] [DEBUG] Plugin html-report is already installed.
+16-12-2021 22:08:12.518 [Gauge] [DEBUG] Parsing started.
+16-12-2021 22:08:12.518 [Gauge] [DEBUG] Started concepts parsing.
+16-12-2021 22:08:12.662 [Gauge] [DEBUG] 1 concepts parsing completed.
+16-12-2021 22:08:12.662 [Gauge] [DEBUG] Started specifications parsing.
+16-12-2021 22:08:12.662 [Gauge] [DEBUG] 1 specifications parsing completed.
+16-12-2021 22:08:12.662 [Gauge] [DEBUG] Parsing completed.
+16-12-2021 22:08:13.049 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51400
+16-12-2021 22:08:13.051 [Gauge] [DEBUG] Successfully made the connection with runner with port: 51400
+16-12-2021 22:08:13.051 [Gauge] [DEBUG] Validation started.
+16-12-2021 22:08:13.067 [Gauge] [DEBUG] Validation completed.
+16-12-2021 22:08:13.067 [Gauge] [DEBUG] Run started
+16-12-2021 22:08:13.068 [Gauge] [DEBUG] Starting Html Report plugin
+16-12-2021 22:08:13.077 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51405
+16-12-2021 22:08:13.078 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 51405
+16-12-2021 22:08:13.078 [Gauge] [DEBUG] Initialising suite data store.
+16-12-2021 22:08:13.277 [Gauge] [DEBUG] Checking updates...
+16-12-2021 22:08:13.278 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 22:08:13.608 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 22:08:13.736 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 22:08:15.281 [Gauge] [INFO] # Sign In Scenarios
+16-12-2021 22:08:15.297 [Gauge] [INFO] ## Sign in with separete steps
+16-12-2021 22:08:15.313 [Gauge] [DEBUG] * Go to url
+
+16-12-2021 22:08:18.411 [Gauge] [DEBUG] * Enter username: "wenoy99557"
+16-12-2021 22:08:29.717 [Gauge] [ERROR] 
+Failed Step: Enter username: "wenoy99557"
+16-12-2021 22:08:29.718 [Gauge] [ERROR] Specification: specs/example.spec:14
+16-12-2021 22:08:29.718 [Gauge] [ERROR] Error Message: Error: Element with text E-posta not found
+16-12-2021 22:08:29.718 [Gauge] [ERROR] Stacktrace: 
+Error: Element with text E-posta not found
+    at findElements (node_modules/taiko/lib/elementSearch.js:263:11)
+    at async rectangle (node_modules/taiko/lib/taiko.js:2558:17)
+    at async RelativeSearchElement.findProximityElementRects (node_modules/taiko/lib/taiko.js:1984:17)
+    at async RelativeSearchElement.validNodes (node_modules/taiko/lib/proximityElementSearch.js:61:9)
+    at async getMatchingNode (node_modules/taiko/lib/proximityElementSearch.js:27:28)
+    at async handleRelativeSearch (node_modules/taiko/lib/proximityElementSearch.js:11:25)
+    at async get (node_modules/taiko/lib/elementWrapper/helper.js:82:23)
+    at async node_modules/taiko/lib/elementSearch.js:313:22
+    at async waitUntil (node_modules/taiko/lib/helper.js:126:11)
+    at async node_modules/taiko/lib/elementSearch.js:311:7
+16-12-2021 22:08:30.013 [html-report] [DEBUG] Transformed SuiteResult to report structure
+16-12-2021 22:08:30.038 [html-report] [INFO] Successfully generated html-report to => /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/reports/html-report/index.html
+16-12-2021 22:08:30.038 [html-report] [DEBUG] Done generating HTML report using theme from /Users/tuba.tosunoglu/.gauge/plugins/html-report/4.0.12/themes/default
+16-12-2021 22:08:30.038 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+16-12-2021 22:08:30.248 [Gauge] [DEBUG] Runner with PID:4448 has exited
+16-12-2021 22:08:30.248 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+16-12-2021 22:08:30.248 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+16-12-2021 22:08:30.249 [Gauge] [INFO] 
+Total time taken: 16.945s
+16-12-2021 22:08:30.249 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+16-12-2021 22:09:49.245 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/.gauge/screenshots
+16-12-2021 22:09:49.246 [Gauge] [DEBUG] Plugin js is already installed.
+16-12-2021 22:09:49.246 [Gauge] [DEBUG] Plugin html-report is already installed.
+16-12-2021 22:09:49.247 [Gauge] [DEBUG] Parsing started.
+16-12-2021 22:09:49.247 [Gauge] [DEBUG] Started concepts parsing.
+16-12-2021 22:09:49.382 [Gauge] [DEBUG] 1 concepts parsing completed.
+16-12-2021 22:09:49.382 [Gauge] [DEBUG] Started specifications parsing.
+16-12-2021 22:09:49.383 [Gauge] [DEBUG] 1 specifications parsing completed.
+16-12-2021 22:09:49.383 [Gauge] [DEBUG] Parsing completed.
+16-12-2021 22:09:49.677 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51454
+16-12-2021 22:09:49.680 [Gauge] [DEBUG] Successfully made the connection with runner with port: 51454
+16-12-2021 22:09:49.680 [Gauge] [DEBUG] Validation started.
+16-12-2021 22:09:49.692 [Gauge] [DEBUG] Checking updates...
+16-12-2021 22:09:49.693 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 22:09:49.698 [Gauge] [DEBUG] Validation completed.
+16-12-2021 22:09:49.698 [Gauge] [DEBUG] Run started
+16-12-2021 22:09:49.699 [Gauge] [DEBUG] Starting Html Report plugin
+16-12-2021 22:09:49.707 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51459
+16-12-2021 22:09:49.707 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 51459
+16-12-2021 22:09:49.707 [Gauge] [DEBUG] Initialising suite data store.
+16-12-2021 22:09:50.053 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 22:09:50.626 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 22:09:52.361 [Gauge] [ERROR] Error Message: Error: Please set one of the given device models 
+Blackberry PlayBook
+Blackberry PlayBook landscape
+BlackBerry Z30
+BlackBerry Z30 landscape
+Galaxy Note 3
+Galaxy Note 3 landscape
+Galaxy Note II
+Galaxy Note II landscape
+Galaxy S III
+Galaxy S III landscape
+Galaxy S5
+Galaxy S5 landscape
+iPad
+iPad landscape
+iPad Mini
+iPad Mini landscape
+iPad Pro
+iPad Pro landscape
+iPhone 4
+iPhone 4 landscape
+iPhone 5
+iPhone 5 landscape
+iPhone 6
+iPhone 6 landscape
+iPhone 6 Plus
+iPhone 6 Plus landscape
+iPhone 7
+iPhone 7 landscape
+iPhone 7 Plus
+iPhone 7 Plus landscape
+iPhone 8
+iPhone 8 landscape
+iPhone 8 Plus
+iPhone 8 Plus landscape
+iPhone SE
+iPhone SE landscape
+iPhone X
+iPhone X landscape
+Kindle Fire HDX
+Kindle Fire HDX landscape
+LG Optimus L70
+LG Optimus L70 landscape
+Microsoft Lumia 550
+Microsoft Lumia 950
+Microsoft Lumia 950 landscape
+Nexus 10
+Nexus 10 landscape
+Nexus 4
+Nexus 4 landscape
+Nexus 5
+Nexus 5 landscape
+Nexus 5X
+Nexus 5X landscape
+Nexus 6
+Nexus 6 landscape
+Nexus 6P
+Nexus 6P landscape
+Nexus 7
+Nexus 7 landscape
+Nokia Lumia 520
+Nokia Lumia 520 landscape
+Nokia N9
+Nokia N9 landscape
+Pixel 2
+Pixel 2 landscape
+Pixel 2 XL
+Pixel 2 XL landscape
+16-12-2021 22:09:52.361 [Gauge] [ERROR] Stacktrace: 
+Error: Please set one of the given device models 
+Blackberry PlayBook
+Blackberry PlayBook landscape
+BlackBerry Z30
+BlackBerry Z30 landscape
+Galaxy Note 3
+Galaxy Note 3 landscape
+Galaxy Note II
+Galaxy Note II landscape
+Galaxy S III
+Galaxy S III landscape
+Galaxy S5
+Galaxy S5 landscape
+iPad
+iPad landscape
+iPad Mini
+iPad Mini landscape
+iPad Pro
+iPad Pro landscape
+iPhone 4
+iPhone 4 landscape
+iPhone 5
+iPhone 5 landscape
+iPhone 6
+iPhone 6 landscape
+iPhone 6 Plus
+iPhone 6 Plus landscape
+iPhone 7
+iPhone 7 landscape
+iPhone 7 Plus
+iPhone 7 Plus landscape
+iPhone 8
+iPhone 8 landscape
+iPhone 8 Plus
+iPhone 8 Plus landscape
+iPhone SE
+iPhone SE landscape
+iPhone X
+iPhone X landscape
+Kindle Fire HDX
+Kindle Fire HDX landscape
+LG Optimus L70
+LG Optimus L70 landscape
+Microsoft Lumia 550
+Microsoft Lumia 950
+Microsoft Lumia 950 landscape
+Nexus 10
+Nexus 10 landscape
+Nexus 4
+Nexus 4 landscape
+Nexus 5
+Nexus 5 landscape
+Nexus 5X
+Nexus 5X landscape
+Nexus 6
+Nexus 6 landscape
+Nexus 6P
+Nexus 6P landscape
+Nexus 7
+Nexus 7 landscape
+Nokia Lumia 520
+Nokia Lumia 520 landscape
+Nokia N9
+Nokia N9 landscape
+Pixel 2
+Pixel 2 landscape
+Pixel 2 XL
+Pixel 2 XL landscape
+    at Object.emulateDevice (node_modules/taiko/lib/handlers/emulationHandler.js:61:11)
+    at emulateDevice (node_modules/taiko/lib/taiko.js:319:26)
+    at module.exports.<computed> (node_modules/taiko/lib/taiko.js:2626:36)
+    at Object.<anonymous> (tests/step_implementation.js:31:11)
+16-12-2021 22:09:52.362 [html-report] [DEBUG] Transformed SuiteResult to report structure
+16-12-2021 22:09:52.375 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+16-12-2021 22:09:52.375 [html-report] [INFO] Successfully generated html-report to => /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/reports/html-report/index.html
+16-12-2021 22:09:52.375 [html-report] [DEBUG] Done generating HTML report using theme from /Users/tuba.tosunoglu/.gauge/plugins/html-report/4.0.12/themes/default
+16-12-2021 22:09:52.582 [Gauge] [DEBUG] Runner with PID:4490 has exited
+16-12-2021 22:09:52.583 [Gauge] [INFO] Specifications:	0 executed	0 passed	0 failed	0 skipped
+16-12-2021 22:09:52.583 [Gauge] [INFO] Scenarios:	0 executed	0 passed	0 failed	0 skipped
+16-12-2021 22:09:52.583 [Gauge] [INFO] 
+Total time taken: 2.662s
+16-12-2021 22:09:52.584 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+16-12-2021 22:10:32.691 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/.gauge/screenshots
+16-12-2021 22:10:32.692 [Gauge] [DEBUG] Plugin js is already installed.
+16-12-2021 22:10:32.692 [Gauge] [DEBUG] Plugin html-report is already installed.
+16-12-2021 22:10:32.693 [Gauge] [DEBUG] Parsing started.
+16-12-2021 22:10:32.693 [Gauge] [DEBUG] Started concepts parsing.
+16-12-2021 22:10:32.856 [Gauge] [DEBUG] 1 concepts parsing completed.
+16-12-2021 22:10:32.857 [Gauge] [DEBUG] Started specifications parsing.
+16-12-2021 22:10:32.857 [Gauge] [DEBUG] 1 specifications parsing completed.
+16-12-2021 22:10:32.857 [Gauge] [DEBUG] Parsing completed.
+16-12-2021 22:10:33.173 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51483
+16-12-2021 22:10:33.175 [Gauge] [DEBUG] Successfully made the connection with runner with port: 51483
+16-12-2021 22:10:33.175 [Gauge] [DEBUG] Validation started.
+16-12-2021 22:10:33.191 [Gauge] [DEBUG] Validation completed.
+16-12-2021 22:10:33.191 [Gauge] [DEBUG] Run started
+16-12-2021 22:10:33.192 [Gauge] [DEBUG] Starting Html Report plugin
+16-12-2021 22:10:33.200 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51488
+16-12-2021 22:10:33.200 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 51488
+16-12-2021 22:10:33.200 [Gauge] [DEBUG] Initialising suite data store.
+16-12-2021 22:10:33.205 [Gauge] [DEBUG] Checking updates...
+16-12-2021 22:10:33.206 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 22:10:33.544 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 22:10:33.678 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 22:10:35.048 [Gauge] [INFO] # Sign In Scenarios
+16-12-2021 22:10:35.067 [Gauge] [DEBUG] 
+   |user                  |passw  |
+   |----------------------|-------|
+   |wenoy99557@wolfpat.com|testing|
+16-12-2021 22:10:35.068 [Gauge] [INFO] ## Sign in with concept
+16-12-2021 22:10:35.178 [Gauge] [DEBUG] * Go to url
+
+16-12-2021 22:10:38.576 [Gauge] [DEBUG] * Login with <user> and <passw>
+16-12-2021 22:10:38.576 [Gauge] [DEBUG] * Click sign in
+16-12-2021 22:10:49.155 [Gauge] [ERROR] 
+Failed Step: Click sign in
+16-12-2021 22:10:49.155 [Gauge] [ERROR] Specification: specs/example.spec
+16-12-2021 22:10:49.155 [Gauge] [ERROR] Error Message: Error: Element matching text "Üyelik" is covered by other element
+16-12-2021 22:10:49.155 [Gauge] [ERROR] Stacktrace: 
+Error: Element matching text "Üyelik" is covered by other element
+    at node_modules/taiko/lib/actions/pageActionChecks.js:189:11
+    at async waitAndGetActionableElement (node_modules/taiko/lib/actions/pageActionChecks.js:156:3)
+    at async click (node_modules/taiko/lib/actions/click.js:57:21)
+    at async module.exports.click (node_modules/taiko/lib/taiko.js:923:16)
+    at async module.exports.<computed> (node_modules/taiko/lib/taiko.js:2626:14)
+    at async Object.<anonymous> (tests/step_implementation.js:62:5)
+16-12-2021 22:10:49.416 [html-report] [DEBUG] Transformed SuiteResult to report structure
+16-12-2021 22:10:49.432 [html-report] [INFO] Successfully generated html-report to => /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/reports/html-report/index.html
+16-12-2021 22:10:49.433 [html-report] [DEBUG] Done generating HTML report using theme from /Users/tuba.tosunoglu/.gauge/plugins/html-report/4.0.12/themes/default
+16-12-2021 22:10:49.433 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+16-12-2021 22:10:49.644 [Gauge] [DEBUG] Runner with PID:4526 has exited
+16-12-2021 22:10:49.645 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+16-12-2021 22:10:49.645 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+16-12-2021 22:10:49.645 [Gauge] [INFO] 
+Total time taken: 16.225s
+16-12-2021 22:10:49.646 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+16-12-2021 22:11:18.574 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/.gauge/screenshots
+16-12-2021 22:11:18.575 [Gauge] [DEBUG] Plugin js is already installed.
+16-12-2021 22:11:18.576 [Gauge] [DEBUG] Plugin html-report is already installed.
+16-12-2021 22:11:18.576 [Gauge] [DEBUG] Parsing started.
+16-12-2021 22:11:18.576 [Gauge] [DEBUG] Started concepts parsing.
+16-12-2021 22:11:18.703 [Gauge] [DEBUG] 1 concepts parsing completed.
+16-12-2021 22:11:18.703 [Gauge] [DEBUG] Started specifications parsing.
+16-12-2021 22:11:18.703 [Gauge] [DEBUG] 1 specifications parsing completed.
+16-12-2021 22:11:18.703 [Gauge] [DEBUG] Parsing completed.
+16-12-2021 22:11:19.025 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51540
+16-12-2021 22:11:19.028 [Gauge] [DEBUG] Successfully made the connection with runner with port: 51540
+16-12-2021 22:11:19.028 [Gauge] [DEBUG] Validation started.
+16-12-2021 22:11:19.043 [Gauge] [DEBUG] Validation completed.
+16-12-2021 22:11:19.043 [Gauge] [DEBUG] Run started
+16-12-2021 22:11:19.043 [Gauge] [DEBUG] Starting Html Report plugin
+16-12-2021 22:11:19.055 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51545
+16-12-2021 22:11:19.055 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 51545
+16-12-2021 22:11:19.055 [Gauge] [DEBUG] Initialising suite data store.
+16-12-2021 22:11:19.063 [Gauge] [DEBUG] Checking updates...
+16-12-2021 22:11:19.064 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 22:11:19.069 [js] [INFO] Runner Ready for Debugging
+16-12-2021 22:11:19.071 [js] [ERROR] Debugger listening on ws://127.0.0.1:51535/6c2ab0da-8b4b-4aee-ab8f-a6ebf6adb912
+16-12-2021 22:11:19.071 [js] [ERROR] For help, see: https://nodejs.org/en/docs/inspector
+16-12-2021 22:11:19.414 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 22:11:19.722 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 22:11:20.135 [js] [ERROR] Debugger attached.
+16-12-2021 22:11:24.013 [Gauge] [INFO] # Sign In Scenarios
+16-12-2021 22:11:24.031 [Gauge] [DEBUG] 
+   |user                  |passw  |
+   |----------------------|-------|
+   |wenoy99557@wolfpat.com|testing|
+16-12-2021 22:11:24.031 [Gauge] [INFO] ## Sign in with concept
+16-12-2021 22:11:24.064 [Gauge] [DEBUG] * Go to url
+
+16-12-2021 22:11:28.993 [Gauge] [DEBUG] * Login with <user> and <passw>
+16-12-2021 22:11:28.993 [Gauge] [DEBUG] * Click sign in
+16-12-2021 22:11:32.085 [Gauge] [DEBUG] * Enter username: "wenoy99557@wolfpat.com"
+16-12-2021 22:11:33.433 [Gauge] [DEBUG] * Enter password: "testing"
+16-12-2021 22:11:34.713 [Gauge] [DEBUG] * Click login
+16-12-2021 22:11:37.876 [Gauge] [DEBUG] * Username should be correct
+16-12-2021 22:11:38.670 [html-report] [DEBUG] Transformed SuiteResult to report structure
+16-12-2021 22:11:38.689 [html-report] [INFO] Successfully generated html-report to => /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/reports/html-report/index.html
+16-12-2021 22:11:38.689 [html-report] [DEBUG] Done generating HTML report using theme from /Users/tuba.tosunoglu/.gauge/plugins/html-report/4.0.12/themes/default
+16-12-2021 22:11:38.689 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+16-12-2021 22:11:38.920 [Gauge] [DEBUG] Runner with PID:4566 has exited
+16-12-2021 22:11:38.920 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+16-12-2021 22:11:38.920 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+16-12-2021 22:11:38.920 [Gauge] [INFO] 
+Total time taken: 19.627s
+16-12-2021 22:11:38.921 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+16-12-2021 22:12:00.583 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/.gauge/screenshots
+16-12-2021 22:12:00.585 [Gauge] [DEBUG] Plugin js is already installed.
+16-12-2021 22:12:00.586 [Gauge] [DEBUG] Plugin html-report is already installed.
+16-12-2021 22:12:00.586 [Gauge] [DEBUG] Parsing started.
+16-12-2021 22:12:00.586 [Gauge] [DEBUG] Started concepts parsing.
+16-12-2021 22:12:00.960 [Gauge] [DEBUG] 1 concepts parsing completed.
+16-12-2021 22:12:00.960 [Gauge] [DEBUG] Started specifications parsing.
+16-12-2021 22:12:00.961 [Gauge] [DEBUG] 1 specifications parsing completed.
+16-12-2021 22:12:00.961 [Gauge] [DEBUG] Parsing completed.
+16-12-2021 22:12:01.379 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51606
+16-12-2021 22:12:01.382 [Gauge] [DEBUG] Successfully made the connection with runner with port: 51606
+16-12-2021 22:12:01.382 [Gauge] [DEBUG] Validation started.
+16-12-2021 22:12:01.397 [Gauge] [DEBUG] Validation completed.
+16-12-2021 22:12:01.397 [Gauge] [DEBUG] Run started
+16-12-2021 22:12:01.398 [Gauge] [DEBUG] Starting Html Report plugin
+16-12-2021 22:12:01.408 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51611
+16-12-2021 22:12:01.409 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 51611
+16-12-2021 22:12:01.409 [Gauge] [DEBUG] Initialising suite data store.
+16-12-2021 22:12:01.419 [js] [INFO] Runner Ready for Debugging
+16-12-2021 22:12:01.419 [js] [ERROR] Debugger listening on ws://127.0.0.1:51601/0a6584e5-9557-440b-8c63-3e8196e09387
+16-12-2021 22:12:01.419 [js] [ERROR] For help, see: https://nodejs.org/en/docs/inspector
+16-12-2021 22:12:01.700 [js] [ERROR] Debugger attached.
+16-12-2021 22:12:01.942 [Gauge] [DEBUG] Checking updates...
+16-12-2021 22:12:01.944 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 22:12:02.499 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 22:12:02.679 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 22:12:38.098 [Gauge] [INFO] # Sign In Scenarios
+16-12-2021 22:12:38.125 [Gauge] [DEBUG] 
+   |user                  |passw  |
+   |----------------------|-------|
+   |wenoy99557@wolfpat.com|testing|
+16-12-2021 22:12:38.125 [Gauge] [INFO] ## Sign in with concept
+16-12-2021 22:12:38.148 [Gauge] [DEBUG] * Go to url
+
+16-12-2021 22:12:46.277 [Gauge] [DEBUG] * Login with <user> and <passw>
+16-12-2021 22:12:46.278 [Gauge] [DEBUG] * Click sign in
+16-12-2021 22:12:49.248 [Gauge] [DEBUG] * Enter username: "wenoy99557@wolfpat.com"
+16-12-2021 22:12:50.514 [Gauge] [DEBUG] * Enter password: "testing"
+16-12-2021 22:12:51.747 [Gauge] [DEBUG] * Click login
+16-12-2021 22:12:56.292 [Gauge] [DEBUG] * Username should be correct
+16-12-2021 22:12:56.824 [html-report] [DEBUG] Transformed SuiteResult to report structure
+16-12-2021 22:12:56.839 [html-report] [INFO] Successfully generated html-report to => /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/reports/html-report/index.html
+16-12-2021 22:12:56.839 [html-report] [DEBUG] Done generating HTML report using theme from /Users/tuba.tosunoglu/.gauge/plugins/html-report/4.0.12/themes/default
+16-12-2021 22:12:56.839 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+16-12-2021 22:12:57.050 [Gauge] [DEBUG] Runner with PID:4614 has exited
+16-12-2021 22:12:57.050 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+16-12-2021 22:12:57.050 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+16-12-2021 22:12:57.051 [Gauge] [INFO] 
+Total time taken: 55.429s
+16-12-2021 22:12:57.051 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+16-12-2021 22:15:30.855 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/.gauge/screenshots
+16-12-2021 22:15:30.856 [Gauge] [DEBUG] Plugin js is already installed.
+16-12-2021 22:15:30.856 [Gauge] [DEBUG] Plugin html-report is already installed.
+16-12-2021 22:15:30.856 [Gauge] [DEBUG] Parsing started.
+16-12-2021 22:15:30.856 [Gauge] [DEBUG] Started concepts parsing.
+16-12-2021 22:15:30.980 [Gauge] [DEBUG] 1 concepts parsing completed.
+16-12-2021 22:15:30.980 [Gauge] [DEBUG] Started specifications parsing.
+16-12-2021 22:15:30.980 [Gauge] [DEBUG] 1 specifications parsing completed.
+16-12-2021 22:15:30.980 [Gauge] [DEBUG] Parsing completed.
+16-12-2021 22:15:31.354 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51703
+16-12-2021 22:15:31.359 [Gauge] [DEBUG] Successfully made the connection with runner with port: 51703
+16-12-2021 22:15:31.359 [Gauge] [DEBUG] Validation started.
+16-12-2021 22:15:31.376 [Gauge] [DEBUG] Validation completed.
+16-12-2021 22:15:31.376 [Gauge] [DEBUG] Run started
+16-12-2021 22:15:31.376 [Gauge] [DEBUG] Starting Html Report plugin
+16-12-2021 22:15:31.389 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51708
+16-12-2021 22:15:31.389 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 51708
+16-12-2021 22:15:31.390 [Gauge] [DEBUG] Initialising suite data store.
+16-12-2021 22:15:31.404 [Gauge] [DEBUG] Checking updates...
+16-12-2021 22:15:31.405 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 22:15:31.994 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 22:15:32.169 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+16-12-2021 22:15:33.340 [Gauge] [INFO] # Sign In Scenarios
+16-12-2021 22:15:33.353 [Gauge] [DEBUG] 
+   |user                  |passw  |
+   |----------------------|-------|
+   |wenoy99557@wolfpat.com|testing|
+16-12-2021 22:15:33.353 [Gauge] [INFO] ## Sign in with concept
+16-12-2021 22:15:33.364 [Gauge] [DEBUG] * Go to url
+
+16-12-2021 22:15:36.981 [Gauge] [DEBUG] * Login with <user> and <passw>
+16-12-2021 22:15:36.981 [Gauge] [DEBUG] * Click sign in
+16-12-2021 22:15:39.835 [Gauge] [DEBUG] * Enter username: "wenoy99557@wolfpat.com"
+16-12-2021 22:15:50.334 [Gauge] [ERROR] 
+Failed Step: Enter username: <username>
+16-12-2021 22:15:50.334 [Gauge] [ERROR] Specification: specs/example.spec
+16-12-2021 22:15:50.334 [Gauge] [ERROR] Error Message: Error: TextBox to right of pp not found
+16-12-2021 22:15:50.334 [Gauge] [ERROR] Stacktrace: 
+Error: TextBox to right of pp not found
+    at findElements (node_modules/taiko/lib/elementSearch.js:263:11)
+    at async waitAndGetActionableElement (node_modules/taiko/lib/actions/pageActionChecks.js:149:43)
+    at async write (node_modules/taiko/lib/actions/write.js:56:11)
+    at async module.exports.write (node_modules/taiko/lib/taiko.js:1070:16)
+    at async module.exports.<computed> (node_modules/taiko/lib/taiko.js:2626:14)
+    at async Object.<anonymous> (tests/step_implementation.js:66:5)
+16-12-2021 22:15:50.334 [Gauge] [DEBUG] * Enter password: "testing"
+16-12-2021 22:15:51.563 [Gauge] [DEBUG] * Click login
+16-12-2021 22:15:54.034 [Gauge] [DEBUG] * Username should be correct
+16-12-2021 22:15:54.311 [html-report] [DEBUG] Transformed SuiteResult to report structure
+16-12-2021 22:15:54.328 [html-report] [INFO] Successfully generated html-report to => /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/reports/html-report/index.html
+16-12-2021 22:15:54.328 [html-report] [DEBUG] Done generating HTML report using theme from /Users/tuba.tosunoglu/.gauge/plugins/html-report/4.0.12/themes/default
+16-12-2021 22:15:54.329 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+16-12-2021 22:15:54.538 [Gauge] [DEBUG] Runner with PID:4733 has exited
+16-12-2021 22:15:54.538 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+16-12-2021 22:15:54.538 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+16-12-2021 22:15:54.538 [Gauge] [INFO] 
+Total time taken: 22.935s
+16-12-2021 22:15:54.539 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+17-12-2021 21:51:32.043 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/.gauge/screenshots
+17-12-2021 21:51:32.050 [Gauge] [DEBUG] Plugin html-report is already installed.
+17-12-2021 21:51:32.051 [Gauge] [DEBUG] Plugin js is already installed.
+17-12-2021 21:51:32.052 [Gauge] [DEBUG] Parsing started.
+17-12-2021 21:51:32.052 [Gauge] [DEBUG] Started concepts parsing.
+17-12-2021 21:51:32.296 [Gauge] [DEBUG] 1 concepts parsing completed.
+17-12-2021 21:51:32.296 [Gauge] [DEBUG] Started specifications parsing.
+17-12-2021 21:51:32.296 [Gauge] [DEBUG] 1 specifications parsing completed.
+17-12-2021 21:51:32.297 [Gauge] [DEBUG] Parsing completed.
+17-12-2021 21:51:32.716 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 58470
+17-12-2021 21:51:32.718 [Gauge] [DEBUG] Successfully made the connection with runner with port: 58470
+17-12-2021 21:51:32.718 [Gauge] [DEBUG] Validation started.
+17-12-2021 21:51:32.730 [Gauge] [DEBUG] Validation completed.
+17-12-2021 21:51:32.731 [Gauge] [DEBUG] Run started
+17-12-2021 21:51:32.731 [Gauge] [DEBUG] Starting Html Report plugin
+17-12-2021 21:51:32.974 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 58475
+17-12-2021 21:51:32.975 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 58475
+17-12-2021 21:51:32.975 [Gauge] [DEBUG] Initialising suite data store.
+17-12-2021 21:51:32.993 [Gauge] [DEBUG] Checking updates...
+17-12-2021 21:51:32.994 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 21:51:33.566 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 21:51:33.732 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 21:51:39.890 [Gauge] [INFO] # Sign In Scenarios
+17-12-2021 21:51:39.899 [Gauge] [INFO] ## Sign in success
+17-12-2021 21:51:39.906 [Gauge] [DEBUG] * Go to url
+
+17-12-2021 21:51:44.818 [Gauge] [DEBUG] * Sign in
+
+17-12-2021 21:51:52.345 [html-report] [DEBUG] Transformed SuiteResult to report structure
+17-12-2021 21:51:52.364 [html-report] [INFO] Successfully generated html-report to => /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/reports/html-report/index.html
+17-12-2021 21:51:52.364 [html-report] [DEBUG] Done generating HTML report using theme from /Users/tuba.tosunoglu/.gauge/plugins/html-report/4.0.12/themes/default
+17-12-2021 21:51:52.364 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+17-12-2021 21:51:52.573 [Gauge] [DEBUG] Runner with PID:11062 has exited
+17-12-2021 21:51:52.573 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+17-12-2021 21:51:52.573 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+17-12-2021 21:51:52.573 [Gauge] [INFO] 
+Total time taken: 19.612s
+17-12-2021 21:51:52.575 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+17-12-2021 21:51:59.526 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/.gauge/screenshots
+17-12-2021 21:51:59.527 [Gauge] [DEBUG] Plugin js is already installed.
+17-12-2021 21:51:59.528 [Gauge] [DEBUG] Plugin html-report is already installed.
+17-12-2021 21:51:59.529 [Gauge] [DEBUG] Parsing started.
+17-12-2021 21:51:59.529 [Gauge] [DEBUG] Started concepts parsing.
+17-12-2021 21:51:59.743 [Gauge] [DEBUG] 1 concepts parsing completed.
+17-12-2021 21:51:59.743 [Gauge] [DEBUG] Started specifications parsing.
+17-12-2021 21:51:59.744 [Gauge] [DEBUG] 1 specifications parsing completed.
+17-12-2021 21:51:59.744 [Gauge] [DEBUG] Parsing completed.
+17-12-2021 21:52:00.139 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 58523
+17-12-2021 21:52:00.141 [Gauge] [DEBUG] Successfully made the connection with runner with port: 58523
+17-12-2021 21:52:00.141 [Gauge] [DEBUG] Validation started.
+17-12-2021 21:52:00.155 [Gauge] [DEBUG] Validation completed.
+17-12-2021 21:52:00.155 [Gauge] [DEBUG] Run started
+17-12-2021 21:52:00.155 [Gauge] [DEBUG] Starting Html Report plugin
+17-12-2021 21:52:00.164 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 58528
+17-12-2021 21:52:00.165 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 58528
+17-12-2021 21:52:00.165 [Gauge] [DEBUG] Initialising suite data store.
+17-12-2021 21:52:00.334 [Gauge] [DEBUG] Checking updates...
+17-12-2021 21:52:00.334 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 21:52:00.730 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 21:52:00.896 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 21:52:02.058 [Gauge] [INFO] # Sign In Scenarios
+17-12-2021 21:52:02.082 [Gauge] [INFO] ## Sign in with separete steps
+17-12-2021 21:52:02.119 [Gauge] [DEBUG] * Go to url
+
+17-12-2021 21:52:04.901 [Gauge] [DEBUG] * Enter username: "wenoy99557@wolfpat.com"
+17-12-2021 21:52:16.126 [Gauge] [ERROR] 
+Failed Step: Enter username: "wenoy99557@wolfpat.com"
+17-12-2021 21:52:16.126 [Gauge] [ERROR] Specification: specs/example.spec:14
+17-12-2021 21:52:16.127 [Gauge] [ERROR] Error Message: Error: TextBox to right of pp not found
+17-12-2021 21:52:16.127 [Gauge] [ERROR] Stacktrace: 
+Error: TextBox to right of pp not found
+    at findElements (node_modules/taiko/lib/elementSearch.js:263:11)
+    at async waitAndGetActionableElement (node_modules/taiko/lib/actions/pageActionChecks.js:149:43)
+    at async write (node_modules/taiko/lib/actions/write.js:56:11)
+    at async module.exports.write (node_modules/taiko/lib/taiko.js:1070:16)
+    at async module.exports.<computed> (node_modules/taiko/lib/taiko.js:2626:14)
+    at async Object.<anonymous> (tests/step_implementation.js:77:5)
+17-12-2021 21:52:16.127 [Gauge] [DEBUG] * Enter password: "testing"
+17-12-2021 21:52:27.278 [Gauge] [ERROR] 
+Failed Step: Enter password: "testing"
+17-12-2021 21:52:27.279 [Gauge] [ERROR] Specification: specs/example.spec:15
+17-12-2021 21:52:27.279 [Gauge] [ERROR] Error Message: Error: Element with text Üye Olmak İstiyorum not found
+17-12-2021 21:52:27.279 [Gauge] [ERROR] Stacktrace: 
+Error: Element with text Üye Olmak İstiyorum not found
+    at findElements (node_modules/taiko/lib/elementSearch.js:263:11)
+    at async rectangle (node_modules/taiko/lib/taiko.js:2558:17)
+    at async RelativeSearchElement.findProximityElementRects (node_modules/taiko/lib/taiko.js:1957:17)
+    at async RelativeSearchElement.validNodes (node_modules/taiko/lib/proximityElementSearch.js:61:9)
+    at async getMatchingNode (node_modules/taiko/lib/proximityElementSearch.js:27:28)
+    at async handleRelativeSearch (node_modules/taiko/lib/proximityElementSearch.js:11:25)
+    at async get (node_modules/taiko/lib/elementWrapper/helper.js:82:23)
+    at async node_modules/taiko/lib/elementSearch.js:313:22
+    at async waitUntil (node_modules/taiko/lib/helper.js:126:11)
+    at async node_modules/taiko/lib/elementSearch.js:311:7
+17-12-2021 21:52:27.541 [html-report] [DEBUG] Transformed SuiteResult to report structure
+17-12-2021 21:52:27.559 [html-report] [INFO] Successfully generated html-report to => /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/reports/html-report/index.html
+17-12-2021 21:52:27.559 [html-report] [DEBUG] Done generating HTML report using theme from /Users/tuba.tosunoglu/.gauge/plugins/html-report/4.0.12/themes/default
+17-12-2021 21:52:27.559 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+17-12-2021 21:52:27.766 [Gauge] [DEBUG] Runner with PID:11094 has exited
+17-12-2021 21:52:27.767 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+17-12-2021 21:52:27.767 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17-12-2021 21:52:27.767 [Gauge] [INFO] 
+Total time taken: 27.384s
+17-12-2021 21:52:27.768 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+17-12-2021 21:52:36.900 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/.gauge/screenshots
+17-12-2021 21:52:36.901 [Gauge] [DEBUG] Plugin js is already installed.
+17-12-2021 21:52:36.902 [Gauge] [DEBUG] Plugin html-report is already installed.
+17-12-2021 21:52:36.902 [Gauge] [DEBUG] Parsing started.
+17-12-2021 21:52:36.902 [Gauge] [DEBUG] Started concepts parsing.
+17-12-2021 21:52:37.144 [Gauge] [DEBUG] 1 concepts parsing completed.
+17-12-2021 21:52:37.144 [Gauge] [DEBUG] Started specifications parsing.
+17-12-2021 21:52:37.145 [Gauge] [DEBUG] 1 specifications parsing completed.
+17-12-2021 21:52:37.145 [Gauge] [DEBUG] Parsing completed.
+17-12-2021 21:52:37.333 [Gauge] [DEBUG] Checking updates...
+17-12-2021 21:52:37.334 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 21:52:37.529 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 58575
+17-12-2021 21:52:37.532 [Gauge] [DEBUG] Successfully made the connection with runner with port: 58575
+17-12-2021 21:52:37.532 [Gauge] [DEBUG] Validation started.
+17-12-2021 21:52:37.546 [Gauge] [DEBUG] Validation completed.
+17-12-2021 21:52:37.546 [Gauge] [DEBUG] Run started
+17-12-2021 21:52:37.547 [Gauge] [DEBUG] Starting Html Report plugin
+17-12-2021 21:52:37.555 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 58580
+17-12-2021 21:52:37.556 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 58580
+17-12-2021 21:52:37.556 [Gauge] [DEBUG] Initialising suite data store.
+17-12-2021 21:52:37.743 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 21:52:37.888 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 21:52:39.397 [Gauge] [INFO] # Sign In Scenarios
+17-12-2021 21:52:39.407 [Gauge] [INFO] ## Sign in with separete steps
+17-12-2021 21:52:39.418 [Gauge] [DEBUG] * Go to url
+
+17-12-2021 21:52:43.506 [Gauge] [DEBUG] * Enter username: "wenoy99557@wolfpat.com"
+17-12-2021 21:52:54.768 [Gauge] [ERROR] 
+Failed Step: Enter username: "wenoy99557@wolfpat.com"
+17-12-2021 21:52:54.769 [Gauge] [ERROR] Specification: specs/example.spec:14
+17-12-2021 21:52:54.769 [Gauge] [ERROR] Error Message: Error: TextBox to right of pp not found
+17-12-2021 21:52:54.769 [Gauge] [ERROR] Stacktrace: 
+Error: TextBox to right of pp not found
+    at findElements (node_modules/taiko/lib/elementSearch.js:263:11)
+    at async waitAndGetActionableElement (node_modules/taiko/lib/actions/pageActionChecks.js:149:43)
+    at async write (node_modules/taiko/lib/actions/write.js:56:11)
+    at async module.exports.write (node_modules/taiko/lib/taiko.js:1070:16)
+    at async module.exports.<computed> (node_modules/taiko/lib/taiko.js:2626:14)
+    at async Object.<anonymous> (tests/step_implementation.js:77:5)
+17-12-2021 21:52:54.769 [Gauge] [DEBUG] * Enter password: "testing"
+17-12-2021 21:53:04.791 [js] [ERROR] 
+Failed to capture screenshot on failure.
+Error: Connection to browser lost. This probably isn't a problem with Taiko, inspect logs for possible causes.
+17-12-2021 21:53:04.800 [Gauge] [ERROR] 
+Failed Step: Enter password: "testing"
+17-12-2021 21:53:04.800 [Gauge] [ERROR] Specification: specs/example.spec:15
+17-12-2021 21:53:04.800 [Gauge] [ERROR] Error Message: Error: WebSocket is not open: readyState 2 (CLOSING)
+17-12-2021 21:53:04.800 [Gauge] [ERROR] Stacktrace: 
+Error: WebSocket is not open: readyState 2 (CLOSING)
+    at sendAfterClose (node_modules/ws/lib/websocket.js:928:17)
+    at WebSocket.send (node_modules/ws/lib/websocket.js:405:7)
+    at Chrome._enqueueCommand (node_modules/chrome-remote-interface/lib/chrome.js:286:18)
+    at node_modules/chrome-remote-interface/lib/chrome.js:88:22
+    at new Promise (<anonymous>)
+    at Chrome.send (node_modules/chrome-remote-interface/lib/chrome.js:87:20)
+    at handler (node_modules/chrome-remote-interface/lib/api.js:33:23)
+    at node_modules/taiko/lib/connection.js:31:33
+    at new Promise (<anonymous>)
+    at Proxy.<anonymous> (node_modules/taiko/lib/connection.js:22:24)
+17-12-2021 21:53:04.818 [js] [ERROR] WARNING: Connection to browser lost. This probably isn't a problem with Taiko, inspect logs for possible causes.
+17-12-2021 21:53:04.820 [html-report] [DEBUG] Transformed SuiteResult to report structure
+17-12-2021 21:53:04.834 [html-report] [INFO] Successfully generated html-report to => /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/reports/html-report/index.html
+17-12-2021 21:53:04.834 [html-report] [DEBUG] Done generating HTML report using theme from /Users/tuba.tosunoglu/.gauge/plugins/html-report/4.0.12/themes/default
+17-12-2021 21:53:04.834 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+17-12-2021 21:53:05.042 [Gauge] [DEBUG] Runner with PID:11127 has exited
+17-12-2021 21:53:05.042 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+17-12-2021 21:53:05.042 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17-12-2021 21:53:05.042 [Gauge] [INFO] 
+Total time taken: 27.272s
+17-12-2021 21:53:05.043 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+17-12-2021 21:53:50.829 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/.gauge/screenshots
+17-12-2021 21:53:50.830 [Gauge] [DEBUG] Plugin js is already installed.
+17-12-2021 21:53:50.831 [Gauge] [DEBUG] Plugin html-report is already installed.
+17-12-2021 21:53:50.831 [Gauge] [DEBUG] Parsing started.
+17-12-2021 21:53:50.831 [Gauge] [DEBUG] Started concepts parsing.
+17-12-2021 21:53:50.968 [Gauge] [DEBUG] 1 concepts parsing completed.
+17-12-2021 21:53:50.968 [Gauge] [DEBUG] Started specifications parsing.
+17-12-2021 21:53:50.969 [Gauge] [DEBUG] 1 specifications parsing completed.
+17-12-2021 21:53:50.969 [Gauge] [DEBUG] Parsing completed.
+17-12-2021 21:53:51.347 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 58632
+17-12-2021 21:53:51.350 [Gauge] [DEBUG] Successfully made the connection with runner with port: 58632
+17-12-2021 21:53:51.350 [Gauge] [DEBUG] Validation started.
+17-12-2021 21:53:51.367 [Gauge] [DEBUG] Validation completed.
+17-12-2021 21:53:51.367 [Gauge] [DEBUG] Run started
+17-12-2021 21:53:51.367 [Gauge] [DEBUG] Starting Html Report plugin
+17-12-2021 21:53:51.427 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 58637
+17-12-2021 21:53:51.433 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 58637
+17-12-2021 21:53:51.433 [Gauge] [DEBUG] Initialising suite data store.
+17-12-2021 21:53:51.528 [Gauge] [DEBUG] Checking updates...
+17-12-2021 21:53:51.529 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 21:53:53.071 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 21:53:53.325 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 21:53:53.489 [Gauge] [INFO] # Sign In Scenarios
+17-12-2021 21:53:53.503 [Gauge] [INFO] ## Sign in with separete steps
+17-12-2021 21:53:53.520 [Gauge] [DEBUG] * Go to url
+
+17-12-2021 21:53:58.964 [Gauge] [DEBUG] * Enter username: "wenoy99557@wolfpat.com"
+17-12-2021 21:54:10.143 [Gauge] [ERROR] 
+Failed Step: Enter username: "wenoy99557@wolfpat.com"
+17-12-2021 21:54:10.143 [Gauge] [ERROR] Specification: specs/example.spec:14
+17-12-2021 21:54:10.143 [Gauge] [ERROR] Error Message: Error: Element with text E-posta not found
+17-12-2021 21:54:10.143 [Gauge] [ERROR] Stacktrace: 
+Error: Element with text E-posta not found
+    at findElements (node_modules/taiko/lib/elementSearch.js:263:11)
+    at async rectangle (node_modules/taiko/lib/taiko.js:2558:17)
+    at async RelativeSearchElement.findProximityElementRects (node_modules/taiko/lib/taiko.js:1984:17)
+    at async RelativeSearchElement.validNodes (node_modules/taiko/lib/proximityElementSearch.js:61:9)
+    at async getMatchingNode (node_modules/taiko/lib/proximityElementSearch.js:27:28)
+    at async handleRelativeSearch (node_modules/taiko/lib/proximityElementSearch.js:11:25)
+    at async get (node_modules/taiko/lib/elementWrapper/helper.js:82:23)
+    at async node_modules/taiko/lib/elementSearch.js:313:22
+    at async waitUntil (node_modules/taiko/lib/helper.js:126:11)
+    at async node_modules/taiko/lib/elementSearch.js:311:7
+17-12-2021 21:54:10.143 [Gauge] [DEBUG] * Enter password: "testing"
+17-12-2021 21:54:21.265 [Gauge] [ERROR] 
+Failed Step: Enter password: "testing"
+17-12-2021 21:54:21.265 [Gauge] [ERROR] Specification: specs/example.spec:15
+17-12-2021 21:54:21.265 [Gauge] [ERROR] Error Message: Error: Element with text Üye Olmak İstiyorum not found
+17-12-2021 21:54:21.265 [Gauge] [ERROR] Stacktrace: 
+Error: Element with text Üye Olmak İstiyorum not found
+    at findElements (node_modules/taiko/lib/elementSearch.js:263:11)
+    at async rectangle (node_modules/taiko/lib/taiko.js:2558:17)
+    at async RelativeSearchElement.findProximityElementRects (node_modules/taiko/lib/taiko.js:1957:17)
+    at async RelativeSearchElement.validNodes (node_modules/taiko/lib/proximityElementSearch.js:61:9)
+    at async getMatchingNode (node_modules/taiko/lib/proximityElementSearch.js:27:28)
+    at async handleRelativeSearch (node_modules/taiko/lib/proximityElementSearch.js:11:25)
+    at async get (node_modules/taiko/lib/elementWrapper/helper.js:82:23)
+    at async node_modules/taiko/lib/elementSearch.js:313:22
+    at async waitUntil (node_modules/taiko/lib/helper.js:126:11)
+    at async node_modules/taiko/lib/elementSearch.js:311:7
+17-12-2021 21:54:21.468 [html-report] [DEBUG] Transformed SuiteResult to report structure
+17-12-2021 21:54:21.491 [html-report] [INFO] Successfully generated html-report to => /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/reports/html-report/index.html
+17-12-2021 21:54:21.491 [html-report] [DEBUG] Done generating HTML report using theme from /Users/tuba.tosunoglu/.gauge/plugins/html-report/4.0.12/themes/default
+17-12-2021 21:54:21.491 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+17-12-2021 21:54:21.700 [Gauge] [DEBUG] Runner with PID:11176 has exited
+17-12-2021 21:54:21.700 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+17-12-2021 21:54:21.700 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17-12-2021 21:54:21.700 [Gauge] [INFO] 
+Total time taken: 30.098s
+17-12-2021 21:54:21.701 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+17-12-2021 21:55:12.848 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/.gauge/screenshots
+17-12-2021 21:55:12.850 [Gauge] [DEBUG] Plugin js is already installed.
+17-12-2021 21:55:12.851 [Gauge] [DEBUG] Plugin html-report is already installed.
+17-12-2021 21:55:12.851 [Gauge] [DEBUG] Parsing started.
+17-12-2021 21:55:12.851 [Gauge] [DEBUG] Started concepts parsing.
+17-12-2021 21:55:12.966 [Gauge] [DEBUG] 1 concepts parsing completed.
+17-12-2021 21:55:12.966 [Gauge] [DEBUG] Started specifications parsing.
+17-12-2021 21:55:12.967 [Gauge] [DEBUG] 1 specifications parsing completed.
+17-12-2021 21:55:12.967 [Gauge] [DEBUG] Parsing completed.
+17-12-2021 21:55:13.326 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 58686
+17-12-2021 21:55:13.328 [Gauge] [DEBUG] Successfully made the connection with runner with port: 58686
+17-12-2021 21:55:13.328 [Gauge] [DEBUG] Validation started.
+17-12-2021 21:55:13.343 [Gauge] [DEBUG] Validation completed.
+17-12-2021 21:55:13.343 [Gauge] [DEBUG] Run started
+17-12-2021 21:55:13.344 [Gauge] [DEBUG] Starting Html Report plugin
+17-12-2021 21:55:13.353 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 58691
+17-12-2021 21:55:13.354 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 58691
+17-12-2021 21:55:13.354 [Gauge] [DEBUG] Initialising suite data store.
+17-12-2021 21:55:13.668 [Gauge] [DEBUG] Checking updates...
+17-12-2021 21:55:13.669 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 21:55:14.241 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 21:55:14.384 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 21:55:15.481 [Gauge] [INFO] # Sign In Scenarios
+17-12-2021 21:55:15.491 [Gauge] [INFO] ## Sign in with separete steps
+17-12-2021 21:55:15.498 [Gauge] [DEBUG] * Go to url
+
+17-12-2021 21:55:18.976 [Gauge] [DEBUG] * Click sign in on home page
+17-12-2021 21:55:21.576 [Gauge] [DEBUG] * Enter username: "wenoy99557@wolfpat.com"
+17-12-2021 21:55:22.756 [Gauge] [DEBUG] * Enter password: "testing"
+17-12-2021 21:55:23.940 [Gauge] [DEBUG] * Click "Giriş"
+17-12-2021 21:55:27.656 [Gauge] [DEBUG] * Username should be correct
+
+17-12-2021 21:55:27.893 [html-report] [DEBUG] Transformed SuiteResult to report structure
+17-12-2021 21:55:27.907 [html-report] [INFO] Successfully generated html-report to => /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/reports/html-report/index.html
+17-12-2021 21:55:27.907 [html-report] [DEBUG] Done generating HTML report using theme from /Users/tuba.tosunoglu/.gauge/plugins/html-report/4.0.12/themes/default
+17-12-2021 21:55:27.907 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+17-12-2021 21:55:28.118 [Gauge] [DEBUG] Runner with PID:11224 has exited
+17-12-2021 21:55:28.118 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+17-12-2021 21:55:28.119 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+17-12-2021 21:55:28.119 [Gauge] [INFO] 
+Total time taken: 14.548s
+17-12-2021 21:55:28.119 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+17-12-2021 21:58:35.446 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/.gauge/screenshots
+17-12-2021 21:58:35.449 [Gauge] [DEBUG] Plugin js is already installed.
+17-12-2021 21:58:35.449 [Gauge] [DEBUG] Plugin html-report is already installed.
+17-12-2021 21:58:35.451 [Gauge] [DEBUG] Parsing started.
+17-12-2021 21:58:35.451 [Gauge] [DEBUG] Started concepts parsing.
+17-12-2021 21:58:35.571 [Gauge] [DEBUG] 1 concepts parsing completed.
+17-12-2021 21:58:35.571 [Gauge] [DEBUG] Started specifications parsing.
+17-12-2021 21:58:35.572 [Gauge] [DEBUG] 1 specifications parsing completed.
+17-12-2021 21:58:35.572 [Gauge] [DEBUG] Parsing completed.
+17-12-2021 21:58:35.927 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 58756
+17-12-2021 21:58:35.929 [Gauge] [DEBUG] Successfully made the connection with runner with port: 58756
+17-12-2021 21:58:35.929 [Gauge] [DEBUG] Validation started.
+17-12-2021 21:58:35.941 [Gauge] [DEBUG] Validation completed.
+17-12-2021 21:58:35.941 [Gauge] [DEBUG] Run started
+17-12-2021 21:58:35.942 [Gauge] [DEBUG] Starting Html Report plugin
+17-12-2021 21:58:35.956 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 58761
+17-12-2021 21:58:35.957 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 58761
+17-12-2021 21:58:35.957 [Gauge] [DEBUG] Initialising suite data store.
+17-12-2021 21:58:36.421 [Gauge] [DEBUG] Checking updates...
+17-12-2021 21:58:36.423 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 21:58:36.746 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 21:58:36.900 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 21:58:38.050 [Gauge] [INFO] # Sign In Scenarios
+17-12-2021 21:58:38.067 [Gauge] [INFO] ## Sign in success
+17-12-2021 21:58:38.085 [Gauge] [DEBUG] * Go to url
+
+17-12-2021 21:58:42.204 [Gauge] [DEBUG] * Sign in
+
+17-12-2021 21:58:50.800 [Gauge] [DEBUG] * Go to home page
+17-12-2021 21:58:54.758 [html-report] [DEBUG] Transformed SuiteResult to report structure
+17-12-2021 21:58:54.771 [html-report] [INFO] Successfully generated html-report to => /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/reports/html-report/index.html
+17-12-2021 21:58:54.771 [html-report] [DEBUG] Done generating HTML report using theme from /Users/tuba.tosunoglu/.gauge/plugins/html-report/4.0.12/themes/default
+17-12-2021 21:58:54.771 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+17-12-2021 21:58:54.979 [Gauge] [DEBUG] Runner with PID:11276 has exited
+17-12-2021 21:58:54.979 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+17-12-2021 21:58:54.979 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+17-12-2021 21:58:54.979 [Gauge] [INFO] 
+Total time taken: 18.816s
+17-12-2021 21:58:54.980 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+17-12-2021 21:59:02.641 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/.gauge/screenshots
+17-12-2021 21:59:02.643 [Gauge] [DEBUG] Plugin js is already installed.
+17-12-2021 21:59:02.643 [Gauge] [DEBUG] Plugin html-report is already installed.
+17-12-2021 21:59:02.644 [Gauge] [DEBUG] Parsing started.
+17-12-2021 21:59:02.644 [Gauge] [DEBUG] Started concepts parsing.
+17-12-2021 21:59:02.819 [Gauge] [DEBUG] 1 concepts parsing completed.
+17-12-2021 21:59:02.820 [Gauge] [DEBUG] Started specifications parsing.
+17-12-2021 21:59:02.820 [Gauge] [DEBUG] 1 specifications parsing completed.
+17-12-2021 21:59:02.820 [Gauge] [DEBUG] Parsing completed.
+17-12-2021 21:59:03.211 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 58810
+17-12-2021 21:59:03.213 [Gauge] [DEBUG] Successfully made the connection with runner with port: 58810
+17-12-2021 21:59:03.213 [Gauge] [DEBUG] Validation started.
+17-12-2021 21:59:03.232 [Gauge] [DEBUG] Validation completed.
+17-12-2021 21:59:03.232 [Gauge] [DEBUG] Run started
+17-12-2021 21:59:03.232 [Gauge] [DEBUG] Starting Html Report plugin
+17-12-2021 21:59:03.249 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 58815
+17-12-2021 21:59:03.250 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 58815
+17-12-2021 21:59:03.250 [Gauge] [DEBUG] Initialising suite data store.
+17-12-2021 21:59:03.556 [Gauge] [DEBUG] Checking updates...
+17-12-2021 21:59:03.556 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 21:59:04.129 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 21:59:04.268 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 21:59:05.254 [Gauge] [INFO] # Sign In Scenarios
+17-12-2021 21:59:05.261 [Gauge] [INFO] ## Sign in with separete steps
+17-12-2021 21:59:05.278 [Gauge] [DEBUG] * Go to url
+
+17-12-2021 21:59:08.554 [Gauge] [DEBUG] * Click sign in on home page
+17-12-2021 21:59:10.909 [Gauge] [DEBUG] * Enter username: "wenoy99557@wolfpat.com"
+17-12-2021 21:59:12.102 [Gauge] [DEBUG] * Enter password: "testing"
+17-12-2021 21:59:13.288 [Gauge] [DEBUG] * Click "Giriş"
+17-12-2021 21:59:16.512 [Gauge] [DEBUG] * Username should be correct
+
+17-12-2021 21:59:16.517 [Gauge] [DEBUG] * Go to home page
+17-12-2021 21:59:21.428 [html-report] [DEBUG] Transformed SuiteResult to report structure
+17-12-2021 21:59:21.439 [html-report] [INFO] Successfully generated html-report to => /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/reports/html-report/index.html
+17-12-2021 21:59:21.439 [html-report] [DEBUG] Done generating HTML report using theme from /Users/tuba.tosunoglu/.gauge/plugins/html-report/4.0.12/themes/default
+17-12-2021 21:59:21.439 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+17-12-2021 21:59:21.650 [Gauge] [DEBUG] Runner with PID:11308 has exited
+17-12-2021 21:59:21.650 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+17-12-2021 21:59:21.650 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+17-12-2021 21:59:21.650 [Gauge] [INFO] 
+Total time taken: 18.194s
+17-12-2021 21:59:21.651 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+17-12-2021 21:59:28.938 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/.gauge/screenshots
+17-12-2021 21:59:28.940 [Gauge] [DEBUG] Plugin js is already installed.
+17-12-2021 21:59:28.941 [Gauge] [DEBUG] Plugin html-report is already installed.
+17-12-2021 21:59:28.941 [Gauge] [DEBUG] Parsing started.
+17-12-2021 21:59:28.941 [Gauge] [DEBUG] Started concepts parsing.
+17-12-2021 21:59:29.246 [Gauge] [DEBUG] 1 concepts parsing completed.
+17-12-2021 21:59:29.246 [Gauge] [DEBUG] Started specifications parsing.
+17-12-2021 21:59:29.246 [Gauge] [DEBUG] 1 specifications parsing completed.
+17-12-2021 21:59:29.246 [Gauge] [DEBUG] Parsing completed.
+17-12-2021 21:59:29.382 [Gauge] [DEBUG] Checking updates...
+17-12-2021 21:59:29.383 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 21:59:29.632 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 58863
+17-12-2021 21:59:29.634 [Gauge] [DEBUG] Successfully made the connection with runner with port: 58863
+17-12-2021 21:59:29.634 [Gauge] [DEBUG] Validation started.
+17-12-2021 21:59:29.651 [Gauge] [DEBUG] Validation completed.
+17-12-2021 21:59:29.651 [Gauge] [DEBUG] Run started
+17-12-2021 21:59:29.651 [Gauge] [DEBUG] Starting Html Report plugin
+17-12-2021 21:59:29.662 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 58868
+17-12-2021 21:59:29.662 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 58868
+17-12-2021 21:59:29.662 [Gauge] [DEBUG] Initialising suite data store.
+17-12-2021 21:59:29.910 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 21:59:30.063 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 21:59:31.519 [Gauge] [INFO] # Sign In Scenarios
+17-12-2021 21:59:31.533 [Gauge] [DEBUG] 
+   |user                  |passw  |
+   |----------------------|-------|
+   |wenoy99557@wolfpat.com|testing|
+17-12-2021 21:59:31.533 [Gauge] [INFO] ## Sign in with separete steps by using table data
+17-12-2021 21:59:31.544 [Gauge] [DEBUG] * Go to url
+
+17-12-2021 21:59:34.326 [Gauge] [DEBUG] * Click sign in on home page
+17-12-2021 21:59:36.924 [Gauge] [DEBUG] * Enter username: "wenoy99557@wolfpat.com"
+17-12-2021 21:59:38.102 [Gauge] [DEBUG] * Enter password: "testing"
+17-12-2021 21:59:39.286 [Gauge] [DEBUG] * Click "Giriş"
+17-12-2021 21:59:43.397 [Gauge] [DEBUG] * Username should be correct
+
+17-12-2021 21:59:43.405 [Gauge] [DEBUG] * Go to home page
+17-12-2021 21:59:48.047 [html-report] [DEBUG] Transformed SuiteResult to report structure
+17-12-2021 21:59:48.062 [html-report] [INFO] Successfully generated html-report to => /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/reports/html-report/index.html
+17-12-2021 21:59:48.062 [html-report] [DEBUG] Done generating HTML report using theme from /Users/tuba.tosunoglu/.gauge/plugins/html-report/4.0.12/themes/default
+17-12-2021 21:59:48.062 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+17-12-2021 21:59:48.270 [Gauge] [DEBUG] Runner with PID:11340 has exited
+17-12-2021 21:59:48.270 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+17-12-2021 21:59:48.270 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+17-12-2021 21:59:48.270 [Gauge] [INFO] 
+Total time taken: 18.395s
+17-12-2021 21:59:48.271 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+17-12-2021 21:59:57.349 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/.gauge/screenshots
+17-12-2021 21:59:57.351 [Gauge] [DEBUG] Plugin js is already installed.
+17-12-2021 21:59:57.352 [Gauge] [DEBUG] Plugin html-report is already installed.
+17-12-2021 21:59:57.352 [Gauge] [DEBUG] Parsing started.
+17-12-2021 21:59:57.352 [Gauge] [DEBUG] Started concepts parsing.
+17-12-2021 21:59:57.525 [Gauge] [DEBUG] 1 concepts parsing completed.
+17-12-2021 21:59:57.525 [Gauge] [DEBUG] Started specifications parsing.
+17-12-2021 21:59:57.526 [Gauge] [DEBUG] 1 specifications parsing completed.
+17-12-2021 21:59:57.526 [Gauge] [DEBUG] Parsing completed.
+17-12-2021 21:59:57.793 [Gauge] [DEBUG] Checking updates...
+17-12-2021 21:59:57.794 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 21:59:57.920 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 58916
+17-12-2021 21:59:57.922 [Gauge] [DEBUG] Successfully made the connection with runner with port: 58916
+17-12-2021 21:59:57.923 [Gauge] [DEBUG] Validation started.
+17-12-2021 21:59:57.940 [Gauge] [DEBUG] Validation completed.
+17-12-2021 21:59:57.940 [Gauge] [DEBUG] Run started
+17-12-2021 21:59:57.940 [Gauge] [DEBUG] Starting Html Report plugin
+17-12-2021 21:59:57.952 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 58921
+17-12-2021 21:59:57.953 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 58921
+17-12-2021 21:59:57.953 [Gauge] [DEBUG] Initialising suite data store.
+17-12-2021 21:59:58.134 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 21:59:58.294 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 21:59:59.782 [Gauge] [INFO] # Sign In Scenarios
+17-12-2021 21:59:59.800 [Gauge] [INFO] ## Sign in with concept
+17-12-2021 21:59:59.831 [Gauge] [DEBUG] * Go to url
+
+17-12-2021 22:00:02.832 [Gauge] [DEBUG] * Login with "wenoy99557@wolfpat.com" and "testing"
+17-12-2021 22:00:02.832 [Gauge] [DEBUG] * Click sign in on home page
+17-12-2021 22:00:05.447 [Gauge] [DEBUG] * Enter username: "wenoy99557@wolfpat.com"
+17-12-2021 22:00:06.635 [Gauge] [DEBUG] * Enter password: "testing"
+17-12-2021 22:00:07.820 [Gauge] [DEBUG] * Click sign in button
+
+17-12-2021 22:00:11.232 [Gauge] [DEBUG] * Username should be correct
+
+17-12-2021 22:00:11.240 [Gauge] [DEBUG] * Go to home page
+17-12-2021 22:00:16.151 [html-report] [DEBUG] Transformed SuiteResult to report structure
+17-12-2021 22:00:16.164 [html-report] [INFO] Successfully generated html-report to => /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/reports/html-report/index.html
+17-12-2021 22:00:16.164 [html-report] [DEBUG] Done generating HTML report using theme from /Users/tuba.tosunoglu/.gauge/plugins/html-report/4.0.12/themes/default
+17-12-2021 22:00:16.165 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+17-12-2021 22:00:16.371 [Gauge] [DEBUG] Runner with PID:11370 has exited
+17-12-2021 22:00:16.371 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+17-12-2021 22:00:16.372 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+17-12-2021 22:00:16.372 [Gauge] [INFO] 
+Total time taken: 18.21s
+17-12-2021 22:00:16.372 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+17-12-2021 22:00:25.540 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/.gauge/screenshots
+17-12-2021 22:00:25.541 [Gauge] [DEBUG] Plugin js is already installed.
+17-12-2021 22:00:25.542 [Gauge] [DEBUG] Plugin html-report is already installed.
+17-12-2021 22:00:25.542 [Gauge] [DEBUG] Parsing started.
+17-12-2021 22:00:25.543 [Gauge] [DEBUG] Started concepts parsing.
+17-12-2021 22:00:25.661 [Gauge] [DEBUG] 1 concepts parsing completed.
+17-12-2021 22:00:25.661 [Gauge] [DEBUG] Started specifications parsing.
+17-12-2021 22:00:25.661 [Gauge] [DEBUG] 1 specifications parsing completed.
+17-12-2021 22:00:25.662 [Gauge] [DEBUG] Parsing completed.
+17-12-2021 22:00:25.993 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 58968
+17-12-2021 22:00:25.995 [Gauge] [DEBUG] Successfully made the connection with runner with port: 58968
+17-12-2021 22:00:25.995 [Gauge] [DEBUG] Validation started.
+17-12-2021 22:00:26.011 [Gauge] [DEBUG] Validation completed.
+17-12-2021 22:00:26.011 [Gauge] [DEBUG] Run started
+17-12-2021 22:00:26.012 [Gauge] [DEBUG] Starting Html Report plugin
+17-12-2021 22:00:26.022 [Gauge] [DEBUG] Checking updates...
+17-12-2021 22:00:26.023 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 58973
+17-12-2021 22:00:26.023 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:00:26.024 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 58973
+17-12-2021 22:00:26.024 [Gauge] [DEBUG] Initialising suite data store.
+17-12-2021 22:00:26.526 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:00:26.673 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:00:28.024 [Gauge] [INFO] # Sign In Scenarios
+17-12-2021 22:00:28.036 [Gauge] [DEBUG] 
+   |user                  |passw  |
+   |----------------------|-------|
+   |wenoy99557@wolfpat.com|testing|
+17-12-2021 22:00:28.036 [Gauge] [INFO] ## Sign in with concept by using table data
+17-12-2021 22:00:28.044 [Gauge] [DEBUG] * Go to url
+
+17-12-2021 22:00:31.606 [Gauge] [DEBUG] * Login with <user> and <passw>
+17-12-2021 22:00:31.606 [Gauge] [DEBUG] * Click sign in on home page
+17-12-2021 22:00:34.169 [Gauge] [DEBUG] * Enter username: "wenoy99557@wolfpat.com"
+17-12-2021 22:00:35.437 [Gauge] [DEBUG] * Enter password: "testing"
+17-12-2021 22:00:36.634 [Gauge] [DEBUG] * Click sign in button
+
+17-12-2021 22:00:39.974 [Gauge] [DEBUG] * Username should be correct
+
+17-12-2021 22:00:39.978 [Gauge] [DEBUG] * Go to home page
+17-12-2021 22:00:44.868 [html-report] [DEBUG] Transformed SuiteResult to report structure
+17-12-2021 22:00:44.879 [html-report] [INFO] Successfully generated html-report to => /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/reports/html-report/index.html
+17-12-2021 22:00:44.879 [html-report] [DEBUG] Done generating HTML report using theme from /Users/tuba.tosunoglu/.gauge/plugins/html-report/4.0.12/themes/default
+17-12-2021 22:00:44.879 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+17-12-2021 22:00:45.086 [Gauge] [DEBUG] Runner with PID:11401 has exited
+17-12-2021 22:00:45.086 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+17-12-2021 22:00:45.086 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+17-12-2021 22:00:45.086 [Gauge] [INFO] 
+Total time taken: 18.856s
+17-12-2021 22:00:45.087 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+17-12-2021 22:05:42.507 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/.gauge/screenshots
+17-12-2021 22:05:42.510 [Gauge] [DEBUG] Plugin js is already installed.
+17-12-2021 22:05:42.512 [Gauge] [DEBUG] Plugin html-report is already installed.
+17-12-2021 22:05:42.512 [Gauge] [DEBUG] Parsing started.
+17-12-2021 22:05:42.512 [Gauge] [DEBUG] Started concepts parsing.
+17-12-2021 22:05:42.630 [Gauge] [DEBUG] 1 concepts parsing completed.
+17-12-2021 22:05:42.630 [Gauge] [DEBUG] Started specifications parsing.
+17-12-2021 22:05:42.630 [Gauge] [DEBUG] 1 specifications parsing completed.
+17-12-2021 22:05:42.630 [Gauge] [DEBUG] Parsing completed.
+17-12-2021 22:05:43.014 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 59053
+17-12-2021 22:05:43.017 [Gauge] [DEBUG] Successfully made the connection with runner with port: 59053
+17-12-2021 22:05:43.017 [Gauge] [DEBUG] Validation started.
+17-12-2021 22:05:43.035 [Gauge] [ERROR] [ValidationError] /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/specs/example.spec:45 Step implementation not found => 'Logo text should be cikolatasepeti.com on home page'
+17-12-2021 22:05:43.035 [Gauge] [DEBUG] Run started
+17-12-2021 22:05:43.036 [Gauge] [DEBUG] Starting Html Report plugin
+17-12-2021 22:05:43.089 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 59058
+17-12-2021 22:05:43.091 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 59058
+17-12-2021 22:05:43.091 [Gauge] [DEBUG] Initialising suite data store.
+17-12-2021 22:05:43.341 [Gauge] [DEBUG] Checking updates...
+17-12-2021 22:05:43.342 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:05:43.854 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:05:43.995 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:05:45.513 [html-report] [DEBUG] Transformed SuiteResult to report structure
+17-12-2021 22:05:45.530 [html-report] [INFO] Successfully generated html-report to => /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/reports/html-report/index.html
+17-12-2021 22:05:45.530 [html-report] [DEBUG] Done generating HTML report using theme from /Users/tuba.tosunoglu/.gauge/plugins/html-report/4.0.12/themes/default
+17-12-2021 22:05:45.530 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+17-12-2021 22:05:45.738 [Gauge] [DEBUG] Runner with PID:11462 has exited
+17-12-2021 22:05:45.739 [Gauge] [INFO] Specifications:	0 executed	0 passed	0 failed	1 skipped
+17-12-2021 22:05:45.739 [Gauge] [INFO] Scenarios:	0 executed	0 passed	0 failed	1 skipped
+17-12-2021 22:05:45.739 [Gauge] [INFO] 
+Total time taken: 2.475s
+17-12-2021 22:05:45.741 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+17-12-2021 22:06:06.326 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/.gauge/screenshots
+17-12-2021 22:06:06.328 [Gauge] [DEBUG] Plugin html-report is already installed.
+17-12-2021 22:06:06.329 [Gauge] [DEBUG] Plugin js is already installed.
+17-12-2021 22:06:06.329 [Gauge] [DEBUG] Parsing started.
+17-12-2021 22:06:06.329 [Gauge] [DEBUG] Started concepts parsing.
+17-12-2021 22:06:06.449 [Gauge] [DEBUG] 1 concepts parsing completed.
+17-12-2021 22:06:06.449 [Gauge] [DEBUG] Started specifications parsing.
+17-12-2021 22:06:06.449 [Gauge] [DEBUG] 1 specifications parsing completed.
+17-12-2021 22:06:06.449 [Gauge] [DEBUG] Parsing completed.
+17-12-2021 22:06:06.719 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 59081
+17-12-2021 22:06:06.721 [Gauge] [DEBUG] Successfully made the connection with runner with port: 59081
+17-12-2021 22:06:06.722 [Gauge] [DEBUG] Validation started.
+17-12-2021 22:06:06.739 [Gauge] [DEBUG] Validation completed.
+17-12-2021 22:06:06.739 [Gauge] [DEBUG] Run started
+17-12-2021 22:06:06.739 [Gauge] [DEBUG] Starting Html Report plugin
+17-12-2021 22:06:06.751 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 59086
+17-12-2021 22:06:06.752 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 59086
+17-12-2021 22:06:06.752 [Gauge] [DEBUG] Initialising suite data store.
+17-12-2021 22:06:07.091 [Gauge] [DEBUG] Checking updates...
+17-12-2021 22:06:07.092 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:06:07.356 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:06:07.501 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:06:08.374 [Gauge] [INFO] # Sign In Scenarios
+17-12-2021 22:06:08.400 [Gauge] [DEBUG] 
+   |user                  |passw  |
+   |----------------------|-------|
+   |wenoy99557@wolfpat.com|testing|
+17-12-2021 22:06:08.400 [Gauge] [INFO] ## Sign in with concept by using table data
+17-12-2021 22:06:08.416 [Gauge] [DEBUG] * Go to url
+
+17-12-2021 22:06:11.301 [Gauge] [DEBUG] * Login with <user> and <passw>
+17-12-2021 22:06:11.301 [Gauge] [DEBUG] * Click sign in on home page
+17-12-2021 22:06:13.837 [Gauge] [DEBUG] * Enter username: "wenoy99557@wolfpat.com"
+17-12-2021 22:06:15.132 [Gauge] [DEBUG] * Enter password: "testing"
+17-12-2021 22:06:16.320 [Gauge] [DEBUG] * Click sign in button
+
+17-12-2021 22:06:19.033 [Gauge] [DEBUG] * Username should be correct
+
+17-12-2021 22:06:19.038 [Gauge] [DEBUG] * Logo text should be cikolatasepeti.com on home page
+17-12-2021 22:06:29.502 [Gauge] [ERROR] 
+Failed Step: Logo text should be cikolatasepeti.com on home page
+17-12-2021 22:06:29.502 [Gauge] [ERROR] Specification: specs/example.spec:45
+17-12-2021 22:06:29.502 [Gauge] [ERROR] Error Message: AssertionError [ERR_ASSERTION]: false == true
+17-12-2021 22:06:29.502 [Gauge] [ERROR] Stacktrace: 
+AssertionError [ERR_ASSERTION]: false == true
+    at Object.<anonymous> (tests/step_implementation.js:109:12)
+17-12-2021 22:06:29.716 [html-report] [DEBUG] Transformed SuiteResult to report structure
+17-12-2021 22:06:29.733 [html-report] [INFO] Successfully generated html-report to => /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/reports/html-report/index.html
+17-12-2021 22:06:29.733 [html-report] [DEBUG] Done generating HTML report using theme from /Users/tuba.tosunoglu/.gauge/plugins/html-report/4.0.12/themes/default
+17-12-2021 22:06:29.733 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+17-12-2021 22:06:29.945 [Gauge] [DEBUG] Runner with PID:11497 has exited
+17-12-2021 22:06:29.945 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+17-12-2021 22:06:29.946 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17-12-2021 22:06:29.946 [Gauge] [INFO] 
+Total time taken: 22.976s
+17-12-2021 22:06:29.946 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+17-12-2021 22:08:02.488 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/.gauge/screenshots
+17-12-2021 22:08:02.490 [Gauge] [DEBUG] Plugin js is already installed.
+17-12-2021 22:08:02.491 [Gauge] [DEBUG] Plugin html-report is already installed.
+17-12-2021 22:08:02.492 [Gauge] [DEBUG] Parsing started.
+17-12-2021 22:08:02.492 [Gauge] [DEBUG] Started concepts parsing.
+17-12-2021 22:08:02.609 [Gauge] [DEBUG] 1 concepts parsing completed.
+17-12-2021 22:08:02.609 [Gauge] [DEBUG] Started specifications parsing.
+17-12-2021 22:08:02.609 [Gauge] [DEBUG] 1 specifications parsing completed.
+17-12-2021 22:08:02.609 [Gauge] [DEBUG] Parsing completed.
+17-12-2021 22:08:02.937 [Gauge] [DEBUG] Checking updates...
+17-12-2021 22:08:02.938 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:08:02.988 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 59155
+17-12-2021 22:08:02.990 [Gauge] [DEBUG] Successfully made the connection with runner with port: 59155
+17-12-2021 22:08:02.990 [Gauge] [DEBUG] Validation started.
+17-12-2021 22:08:03.008 [Gauge] [DEBUG] Validation completed.
+17-12-2021 22:08:03.008 [Gauge] [DEBUG] Run started
+17-12-2021 22:08:03.008 [Gauge] [DEBUG] Starting Html Report plugin
+17-12-2021 22:08:03.019 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 59161
+17-12-2021 22:08:03.020 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 59161
+17-12-2021 22:08:03.020 [Gauge] [DEBUG] Initialising suite data store.
+17-12-2021 22:08:03.576 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:08:03.731 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:08:04.947 [Gauge] [INFO] # Sign In Scenarios
+17-12-2021 22:08:04.970 [Gauge] [DEBUG] 
+   |user                  |passw  |
+   |----------------------|-------|
+   |wenoy99557@wolfpat.com|testing|
+17-12-2021 22:08:04.970 [Gauge] [INFO] ## Sign in with concept by using table data
+17-12-2021 22:08:05.020 [Gauge] [DEBUG] * Go to url
+
+17-12-2021 22:08:08.472 [Gauge] [DEBUG] * Login with <user> and <passw>
+17-12-2021 22:08:08.472 [Gauge] [DEBUG] * Click sign in on home page
+17-12-2021 22:08:11.076 [Gauge] [DEBUG] * Enter username: "wenoy99557@wolfpat.com"
+17-12-2021 22:08:12.258 [Gauge] [DEBUG] * Enter password: "testing"
+17-12-2021 22:08:13.441 [Gauge] [DEBUG] * Click sign in button
+
+17-12-2021 22:08:16.803 [Gauge] [DEBUG] * Username should be correct
+
+17-12-2021 22:08:16.808 [Gauge] [DEBUG] * Searchbox should be exist on home page
+17-12-2021 22:08:27.289 [Gauge] [ERROR] 
+Failed Step: Searchbox should be exist on home page
+17-12-2021 22:08:27.289 [Gauge] [ERROR] Specification: specs/example.spec:45
+17-12-2021 22:08:27.289 [Gauge] [ERROR] Error Message: AssertionError [ERR_ASSERTION]: false == true
+17-12-2021 22:08:27.289 [Gauge] [ERROR] Stacktrace: 
+AssertionError [ERR_ASSERTION]: false == true
+    at Object.<anonymous> (tests/step_implementation.js:109:12)
+17-12-2021 22:08:27.513 [html-report] [DEBUG] Transformed SuiteResult to report structure
+17-12-2021 22:08:27.530 [html-report] [INFO] Successfully generated html-report to => /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/reports/html-report/index.html
+17-12-2021 22:08:27.530 [html-report] [DEBUG] Done generating HTML report using theme from /Users/tuba.tosunoglu/.gauge/plugins/html-report/4.0.12/themes/default
+17-12-2021 22:08:27.530 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+17-12-2021 22:08:27.739 [Gauge] [DEBUG] Runner with PID:11539 has exited
+17-12-2021 22:08:27.739 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+17-12-2021 22:08:27.739 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17-12-2021 22:08:27.740 [Gauge] [INFO] 
+Total time taken: 24.504s
+17-12-2021 22:08:27.740 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+17-12-2021 22:08:46.165 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/.gauge/screenshots
+17-12-2021 22:08:46.167 [Gauge] [DEBUG] Plugin js is already installed.
+17-12-2021 22:08:46.168 [Gauge] [DEBUG] Plugin html-report is already installed.
+17-12-2021 22:08:46.168 [Gauge] [DEBUG] Parsing started.
+17-12-2021 22:08:46.168 [Gauge] [DEBUG] Started concepts parsing.
+17-12-2021 22:08:46.287 [Gauge] [DEBUG] 1 concepts parsing completed.
+17-12-2021 22:08:46.288 [Gauge] [DEBUG] Started specifications parsing.
+17-12-2021 22:08:46.288 [Gauge] [DEBUG] 1 specifications parsing completed.
+17-12-2021 22:08:46.288 [Gauge] [DEBUG] Parsing completed.
+17-12-2021 22:08:46.646 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 59211
+17-12-2021 22:08:46.648 [Gauge] [DEBUG] Successfully made the connection with runner with port: 59211
+17-12-2021 22:08:46.648 [Gauge] [DEBUG] Validation started.
+17-12-2021 22:08:46.664 [Gauge] [DEBUG] Validation completed.
+17-12-2021 22:08:46.664 [Gauge] [DEBUG] Run started
+17-12-2021 22:08:46.665 [Gauge] [DEBUG] Starting Html Report plugin
+17-12-2021 22:08:46.675 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 59216
+17-12-2021 22:08:46.677 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 59216
+17-12-2021 22:08:46.677 [Gauge] [DEBUG] Initialising suite data store.
+17-12-2021 22:08:46.949 [Gauge] [DEBUG] Checking updates...
+17-12-2021 22:08:46.949 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:08:47.272 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:08:47.405 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:08:48.672 [Gauge] [INFO] # Sign In Scenarios
+17-12-2021 22:08:48.688 [Gauge] [DEBUG] 
+   |user                  |passw  |
+   |----------------------|-------|
+   |wenoy99557@wolfpat.com|testing|
+17-12-2021 22:08:48.690 [Gauge] [INFO] ## Sign in with concept by using table data
+17-12-2021 22:08:48.710 [Gauge] [DEBUG] * Go to url
+
+17-12-2021 22:08:51.710 [Gauge] [DEBUG] * Login with <user> and <passw>
+17-12-2021 22:08:51.710 [Gauge] [DEBUG] * Click sign in on home page
+17-12-2021 22:08:54.199 [Gauge] [DEBUG] * Enter username: "wenoy99557@wolfpat.com"
+17-12-2021 22:08:55.480 [Gauge] [DEBUG] * Enter password: "testing"
+17-12-2021 22:08:56.666 [Gauge] [DEBUG] * Click sign in button
+
+17-12-2021 22:08:59.227 [Gauge] [DEBUG] * Username should be correct
+
+17-12-2021 22:08:59.234 [Gauge] [DEBUG] * Searchbox should be exist on home page
+17-12-2021 22:09:09.737 [Gauge] [ERROR] 
+Failed Step: Searchbox should be exist on home page
+17-12-2021 22:09:09.738 [Gauge] [ERROR] Specification: specs/example.spec:45
+17-12-2021 22:09:09.738 [Gauge] [ERROR] Error Message: AssertionError [ERR_ASSERTION]: false == true
+17-12-2021 22:09:09.738 [Gauge] [ERROR] Stacktrace: 
+AssertionError [ERR_ASSERTION]: false == true
+    at Object.<anonymous> (tests/step_implementation.js:109:12)
+17-12-2021 22:09:09.964 [html-report] [DEBUG] Transformed SuiteResult to report structure
+17-12-2021 22:09:09.978 [html-report] [INFO] Successfully generated html-report to => /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/reports/html-report/index.html
+17-12-2021 22:09:09.978 [html-report] [DEBUG] Done generating HTML report using theme from /Users/tuba.tosunoglu/.gauge/plugins/html-report/4.0.12/themes/default
+17-12-2021 22:09:09.978 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+17-12-2021 22:09:10.187 [Gauge] [DEBUG] Runner with PID:11577 has exited
+17-12-2021 22:09:10.187 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+17-12-2021 22:09:10.187 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17-12-2021 22:09:10.187 [Gauge] [INFO] 
+Total time taken: 23.298s
+17-12-2021 22:09:10.188 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+17-12-2021 22:09:32.235 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/.gauge/screenshots
+17-12-2021 22:09:32.237 [Gauge] [DEBUG] Plugin js is already installed.
+17-12-2021 22:09:32.238 [Gauge] [DEBUG] Plugin html-report is already installed.
+17-12-2021 22:09:32.239 [Gauge] [DEBUG] Parsing started.
+17-12-2021 22:09:32.239 [Gauge] [DEBUG] Started concepts parsing.
+17-12-2021 22:09:32.356 [Gauge] [DEBUG] 1 concepts parsing completed.
+17-12-2021 22:09:32.356 [Gauge] [DEBUG] Started specifications parsing.
+17-12-2021 22:09:32.356 [Gauge] [DEBUG] 1 specifications parsing completed.
+17-12-2021 22:09:32.356 [Gauge] [DEBUG] Parsing completed.
+17-12-2021 22:09:32.736 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 59265
+17-12-2021 22:09:32.739 [Gauge] [DEBUG] Successfully made the connection with runner with port: 59265
+17-12-2021 22:09:32.739 [Gauge] [DEBUG] Validation started.
+17-12-2021 22:09:32.755 [Gauge] [DEBUG] Validation completed.
+17-12-2021 22:09:32.755 [Gauge] [DEBUG] Run started
+17-12-2021 22:09:32.756 [Gauge] [DEBUG] Starting Html Report plugin
+17-12-2021 22:09:32.767 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 59270
+17-12-2021 22:09:32.767 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 59270
+17-12-2021 22:09:32.767 [Gauge] [DEBUG] Initialising suite data store.
+17-12-2021 22:09:33.030 [Gauge] [DEBUG] Checking updates...
+17-12-2021 22:09:33.030 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:09:33.610 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:09:33.775 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:09:34.536 [Gauge] [INFO] # Sign In Scenarios
+17-12-2021 22:09:34.549 [Gauge] [DEBUG] 
+   |user                  |passw  |
+   |----------------------|-------|
+   |wenoy99557@wolfpat.com|testing|
+17-12-2021 22:09:34.549 [Gauge] [INFO] ## Sign in with concept by using table data
+17-12-2021 22:09:34.556 [Gauge] [DEBUG] * Go to url
+
+17-12-2021 22:09:37.454 [Gauge] [DEBUG] * Login with <user> and <passw>
+17-12-2021 22:09:37.454 [Gauge] [DEBUG] * Click sign in on home page
+17-12-2021 22:09:39.989 [Gauge] [DEBUG] * Enter username: "wenoy99557@wolfpat.com"
+17-12-2021 22:09:41.313 [Gauge] [DEBUG] * Enter password: "testing"
+17-12-2021 22:09:42.494 [Gauge] [DEBUG] * Click sign in button
+
+17-12-2021 22:09:46.578 [Gauge] [DEBUG] * Username should be correct
+
+17-12-2021 22:09:46.582 [Gauge] [DEBUG] * Searchbox should be exist on home page
+17-12-2021 22:09:46.908 [html-report] [DEBUG] Transformed SuiteResult to report structure
+17-12-2021 22:09:46.921 [html-report] [INFO] Successfully generated html-report to => /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/reports/html-report/index.html
+17-12-2021 22:09:46.921 [html-report] [DEBUG] Done generating HTML report using theme from /Users/tuba.tosunoglu/.gauge/plugins/html-report/4.0.12/themes/default
+17-12-2021 22:09:46.921 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+17-12-2021 22:09:47.131 [Gauge] [DEBUG] Runner with PID:11611 has exited
+17-12-2021 22:09:47.131 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+17-12-2021 22:09:47.131 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+17-12-2021 22:09:47.132 [Gauge] [INFO] 
+Total time taken: 14.151s
+17-12-2021 22:09:47.132 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+17-12-2021 22:11:03.196 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/.gauge/screenshots
+17-12-2021 22:11:03.198 [Gauge] [DEBUG] Plugin js is already installed.
+17-12-2021 22:11:03.199 [Gauge] [DEBUG] Plugin html-report is already installed.
+17-12-2021 22:11:03.199 [Gauge] [DEBUG] Parsing started.
+17-12-2021 22:11:03.199 [Gauge] [DEBUG] Started concepts parsing.
+17-12-2021 22:11:03.315 [Gauge] [DEBUG] 1 concepts parsing completed.
+17-12-2021 22:11:03.315 [Gauge] [DEBUG] Started specifications parsing.
+17-12-2021 22:11:03.315 [Gauge] [DEBUG] 1 specifications parsing completed.
+17-12-2021 22:11:03.315 [Gauge] [DEBUG] Parsing completed.
+17-12-2021 22:11:03.680 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 59330
+17-12-2021 22:11:03.682 [Gauge] [DEBUG] Successfully made the connection with runner with port: 59330
+17-12-2021 22:11:03.682 [Gauge] [DEBUG] Validation started.
+17-12-2021 22:11:03.695 [Gauge] [DEBUG] Validation completed.
+17-12-2021 22:11:03.695 [Gauge] [DEBUG] Run started
+17-12-2021 22:11:03.695 [Gauge] [DEBUG] Starting Html Report plugin
+17-12-2021 22:11:03.709 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 59335
+17-12-2021 22:11:03.709 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 59335
+17-12-2021 22:11:03.710 [Gauge] [DEBUG] Initialising suite data store.
+17-12-2021 22:11:04.063 [Gauge] [DEBUG] Checking updates...
+17-12-2021 22:11:04.063 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:11:05.592 [Gauge] [INFO] # Sign In Scenarios
+17-12-2021 22:11:05.610 [Gauge] [INFO] ## Sign in success
+17-12-2021 22:11:05.629 [Gauge] [DEBUG] * Go to url
+
+17-12-2021 22:11:05.653 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:11:05.823 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:11:08.575 [Gauge] [DEBUG] * Sign in
+
+17-12-2021 22:11:17.260 [Gauge] [DEBUG] * Searchbox should be exist on home page
+17-12-2021 22:11:17.502 [html-report] [DEBUG] Transformed SuiteResult to report structure
+17-12-2021 22:11:17.512 [html-report] [INFO] Successfully generated html-report to => /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/reports/html-report/index.html
+17-12-2021 22:11:17.512 [html-report] [DEBUG] Done generating HTML report using theme from /Users/tuba.tosunoglu/.gauge/plugins/html-report/4.0.12/themes/default
+17-12-2021 22:11:17.512 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+17-12-2021 22:11:17.726 [Gauge] [DEBUG] Runner with PID:11662 has exited
+17-12-2021 22:11:17.726 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+17-12-2021 22:11:17.726 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+17-12-2021 22:11:17.726 [Gauge] [INFO] 
+Total time taken: 13.804s
+17-12-2021 22:11:17.727 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+17-12-2021 22:11:21.375 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/.gauge/screenshots
+17-12-2021 22:11:21.377 [Gauge] [DEBUG] Plugin html-report is already installed.
+17-12-2021 22:11:21.381 [Gauge] [DEBUG] Plugin js is already installed.
+17-12-2021 22:11:21.382 [Gauge] [DEBUG] Parsing started.
+17-12-2021 22:11:21.382 [Gauge] [DEBUG] Started concepts parsing.
+17-12-2021 22:11:21.654 [Gauge] [DEBUG] 1 concepts parsing completed.
+17-12-2021 22:11:21.654 [Gauge] [DEBUG] Started specifications parsing.
+17-12-2021 22:11:21.654 [Gauge] [DEBUG] 1 specifications parsing completed.
+17-12-2021 22:11:21.654 [Gauge] [DEBUG] Parsing completed.
+17-12-2021 22:11:21.790 [Gauge] [DEBUG] Checking updates...
+17-12-2021 22:11:21.790 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:11:22.052 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 59383
+17-12-2021 22:11:22.054 [Gauge] [DEBUG] Successfully made the connection with runner with port: 59383
+17-12-2021 22:11:22.054 [Gauge] [DEBUG] Validation started.
+17-12-2021 22:11:22.070 [Gauge] [DEBUG] Validation completed.
+17-12-2021 22:11:22.070 [Gauge] [DEBUG] Run started
+17-12-2021 22:11:22.070 [Gauge] [DEBUG] Starting Html Report plugin
+17-12-2021 22:11:22.082 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 59388
+17-12-2021 22:11:22.082 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:11:22.084 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 59388
+17-12-2021 22:11:22.084 [Gauge] [DEBUG] Initialising suite data store.
+17-12-2021 22:11:22.218 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:11:24.017 [Gauge] [INFO] # Sign In Scenarios
+17-12-2021 22:11:24.040 [Gauge] [INFO] ## Sign in with separete steps
+17-12-2021 22:11:24.064 [Gauge] [DEBUG] * Go to url
+
+17-12-2021 22:11:26.969 [Gauge] [DEBUG] * Click sign in on home page
+17-12-2021 22:11:29.503 [Gauge] [DEBUG] * Enter username: "wenoy99557@wolfpat.com"
+17-12-2021 22:11:30.687 [Gauge] [DEBUG] * Enter password: "testing"
+17-12-2021 22:11:31.868 [Gauge] [DEBUG] * Click "Giriş"
+17-12-2021 22:11:35.553 [Gauge] [DEBUG] * Username should be correct
+
+17-12-2021 22:11:35.558 [Gauge] [DEBUG] * Searchbox should be exist on home page
+17-12-2021 22:11:35.852 [html-report] [DEBUG] Transformed SuiteResult to report structure
+17-12-2021 22:11:35.866 [html-report] [INFO] Successfully generated html-report to => /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/reports/html-report/index.html
+17-12-2021 22:11:35.867 [html-report] [DEBUG] Done generating HTML report using theme from /Users/tuba.tosunoglu/.gauge/plugins/html-report/4.0.12/themes/default
+17-12-2021 22:11:35.867 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+17-12-2021 22:11:36.080 [Gauge] [DEBUG] Runner with PID:11693 has exited
+17-12-2021 22:11:36.080 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+17-12-2021 22:11:36.080 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+17-12-2021 22:11:36.080 [Gauge] [INFO] 
+Total time taken: 13.781s
+17-12-2021 22:11:36.081 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+17-12-2021 22:11:43.167 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/.gauge/screenshots
+17-12-2021 22:11:43.169 [Gauge] [DEBUG] Plugin js is already installed.
+17-12-2021 22:11:43.169 [Gauge] [DEBUG] Plugin html-report is already installed.
+17-12-2021 22:11:43.170 [Gauge] [DEBUG] Parsing started.
+17-12-2021 22:11:43.170 [Gauge] [DEBUG] Started concepts parsing.
+17-12-2021 22:11:43.344 [Gauge] [DEBUG] 1 concepts parsing completed.
+17-12-2021 22:11:43.344 [Gauge] [DEBUG] Started specifications parsing.
+17-12-2021 22:11:43.344 [Gauge] [DEBUG] 1 specifications parsing completed.
+17-12-2021 22:11:43.344 [Gauge] [DEBUG] Parsing completed.
+17-12-2021 22:11:43.589 [Gauge] [DEBUG] Checking updates...
+17-12-2021 22:11:43.589 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:11:43.712 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 59437
+17-12-2021 22:11:43.714 [Gauge] [DEBUG] Successfully made the connection with runner with port: 59437
+17-12-2021 22:11:43.714 [Gauge] [DEBUG] Validation started.
+17-12-2021 22:11:43.732 [Gauge] [DEBUG] Validation completed.
+17-12-2021 22:11:43.733 [Gauge] [DEBUG] Run started
+17-12-2021 22:11:43.733 [Gauge] [DEBUG] Starting Html Report plugin
+17-12-2021 22:11:43.743 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 59442
+17-12-2021 22:11:43.743 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 59442
+17-12-2021 22:11:43.743 [Gauge] [DEBUG] Initialising suite data store.
+17-12-2021 22:11:44.003 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:11:44.174 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:11:45.442 [Gauge] [INFO] # Sign In Scenarios
+17-12-2021 22:11:45.455 [Gauge] [DEBUG] 
+   |user                  |passw  |
+   |----------------------|-------|
+   |wenoy99557@wolfpat.com|testing|
+17-12-2021 22:11:45.455 [Gauge] [INFO] ## Sign in with separete steps by using table data
+17-12-2021 22:11:45.467 [Gauge] [DEBUG] * Go to url
+
+17-12-2021 22:11:49.004 [Gauge] [DEBUG] * Click sign in on home page
+17-12-2021 22:11:51.315 [Gauge] [DEBUG] * Enter username: "wenoy99557@wolfpat.com"
+17-12-2021 22:11:52.502 [Gauge] [DEBUG] * Enter password: "testing"
+17-12-2021 22:11:53.685 [Gauge] [DEBUG] * Click "Giriş"
+17-12-2021 22:11:56.552 [Gauge] [DEBUG] * Username should be correct
+
+17-12-2021 22:11:56.559 [Gauge] [DEBUG] * Searchbox should be exist on home page
+17-12-2021 22:11:56.890 [html-report] [DEBUG] Transformed SuiteResult to report structure
+17-12-2021 22:11:56.904 [html-report] [INFO] Successfully generated html-report to => /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/reports/html-report/index.html
+17-12-2021 22:11:56.904 [html-report] [DEBUG] Done generating HTML report using theme from /Users/tuba.tosunoglu/.gauge/plugins/html-report/4.0.12/themes/default
+17-12-2021 22:11:56.904 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+17-12-2021 22:11:57.113 [Gauge] [DEBUG] Runner with PID:11721 has exited
+17-12-2021 22:11:57.113 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+17-12-2021 22:11:57.113 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+17-12-2021 22:11:57.113 [Gauge] [INFO] 
+Total time taken: 13.156s
+17-12-2021 22:11:57.114 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+17-12-2021 22:12:02.816 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/.gauge/screenshots
+17-12-2021 22:12:02.817 [Gauge] [DEBUG] Plugin js is already installed.
+17-12-2021 22:12:02.818 [Gauge] [DEBUG] Plugin html-report is already installed.
+17-12-2021 22:12:02.818 [Gauge] [DEBUG] Parsing started.
+17-12-2021 22:12:02.819 [Gauge] [DEBUG] Started concepts parsing.
+17-12-2021 22:12:02.943 [Gauge] [DEBUG] 1 concepts parsing completed.
+17-12-2021 22:12:02.943 [Gauge] [DEBUG] Started specifications parsing.
+17-12-2021 22:12:02.943 [Gauge] [DEBUG] 1 specifications parsing completed.
+17-12-2021 22:12:02.944 [Gauge] [DEBUG] Parsing completed.
+17-12-2021 22:12:03.299 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 59487
+17-12-2021 22:12:03.301 [Gauge] [DEBUG] Successfully made the connection with runner with port: 59487
+17-12-2021 22:12:03.301 [Gauge] [DEBUG] Validation started.
+17-12-2021 22:12:03.326 [Gauge] [DEBUG] Checking updates...
+17-12-2021 22:12:03.327 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:12:03.333 [Gauge] [DEBUG] Validation completed.
+17-12-2021 22:12:03.333 [Gauge] [DEBUG] Run started
+17-12-2021 22:12:03.333 [Gauge] [DEBUG] Starting Html Report plugin
+17-12-2021 22:12:03.344 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 59493
+17-12-2021 22:12:03.344 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 59493
+17-12-2021 22:12:03.345 [Gauge] [DEBUG] Initialising suite data store.
+17-12-2021 22:12:03.599 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:12:03.747 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:12:05.527 [Gauge] [INFO] # Sign In Scenarios
+17-12-2021 22:12:05.536 [Gauge] [INFO] ## Sign in with all dynamic parameter
+17-12-2021 22:12:05.546 [Gauge] [DEBUG] * Go to url
+
+17-12-2021 22:12:08.514 [Gauge] [DEBUG] * Click sign in on home page
+17-12-2021 22:12:11.010 [Gauge] [DEBUG] * Enter username: "wenoy99557@wolfpat.com"
+17-12-2021 22:12:12.208 [Gauge] [DEBUG] * Enter password: "testing"
+17-12-2021 22:12:13.390 [Gauge] [DEBUG] * Click "Giriş" which above to "Şifremi Unuttum"
+17-12-2021 22:12:16.553 [Gauge] [DEBUG] * Username should be correct
+
+17-12-2021 22:12:16.559 [Gauge] [DEBUG] * Searchbox should be exist on home page
+17-12-2021 22:12:16.882 [html-report] [DEBUG] Transformed SuiteResult to report structure
+17-12-2021 22:12:16.894 [html-report] [INFO] Successfully generated html-report to => /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/reports/html-report/index.html
+17-12-2021 22:12:16.894 [html-report] [DEBUG] Done generating HTML report using theme from /Users/tuba.tosunoglu/.gauge/plugins/html-report/4.0.12/themes/default
+17-12-2021 22:12:16.894 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+17-12-2021 22:12:17.102 [Gauge] [DEBUG] Runner with PID:11749 has exited
+17-12-2021 22:12:17.102 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+17-12-2021 22:12:17.102 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+17-12-2021 22:12:17.102 [Gauge] [INFO] 
+Total time taken: 13.548s
+17-12-2021 22:12:17.103 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+17-12-2021 22:12:20.588 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/.gauge/screenshots
+17-12-2021 22:12:20.589 [Gauge] [DEBUG] Plugin js is already installed.
+17-12-2021 22:12:20.590 [Gauge] [DEBUG] Plugin html-report is already installed.
+17-12-2021 22:12:20.590 [Gauge] [DEBUG] Parsing started.
+17-12-2021 22:12:20.591 [Gauge] [DEBUG] Started concepts parsing.
+17-12-2021 22:12:20.711 [Gauge] [DEBUG] 1 concepts parsing completed.
+17-12-2021 22:12:20.711 [Gauge] [DEBUG] Started specifications parsing.
+17-12-2021 22:12:20.711 [Gauge] [DEBUG] 1 specifications parsing completed.
+17-12-2021 22:12:20.713 [Gauge] [DEBUG] Parsing completed.
+17-12-2021 22:12:21.067 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 59538
+17-12-2021 22:12:21.070 [Gauge] [DEBUG] Successfully made the connection with runner with port: 59538
+17-12-2021 22:12:21.070 [Gauge] [DEBUG] Validation started.
+17-12-2021 22:12:21.089 [Gauge] [DEBUG] Validation completed.
+17-12-2021 22:12:21.089 [Gauge] [DEBUG] Run started
+17-12-2021 22:12:21.090 [Gauge] [DEBUG] Starting Html Report plugin
+17-12-2021 22:12:21.099 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 59543
+17-12-2021 22:12:21.100 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 59543
+17-12-2021 22:12:21.100 [Gauge] [DEBUG] Initialising suite data store.
+17-12-2021 22:12:21.587 [Gauge] [DEBUG] Checking updates...
+17-12-2021 22:12:21.589 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:12:22.259 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:12:22.415 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:12:22.909 [Gauge] [INFO] # Sign In Scenarios
+17-12-2021 22:12:22.925 [Gauge] [DEBUG] 
+   |user                  |passw  |
+   |----------------------|-------|
+   |wenoy99557@wolfpat.com|testing|
+17-12-2021 22:12:22.925 [Gauge] [INFO] ## Sign in with concept by using table data
+17-12-2021 22:12:22.944 [Gauge] [DEBUG] * Go to url
+
+17-12-2021 22:12:28.093 [Gauge] [DEBUG] * Login with <user> and <passw>
+17-12-2021 22:12:28.093 [Gauge] [DEBUG] * Click sign in on home page
+17-12-2021 22:12:30.406 [Gauge] [DEBUG] * Enter username: "wenoy99557@wolfpat.com"
+17-12-2021 22:12:31.582 [Gauge] [DEBUG] * Enter password: "testing"
+17-12-2021 22:12:32.772 [Gauge] [DEBUG] * Click sign in button
+
+17-12-2021 22:12:35.438 [Gauge] [DEBUG] * Username should be correct
+
+17-12-2021 22:12:35.443 [Gauge] [DEBUG] * Searchbox should be exist on home page
+17-12-2021 22:12:35.787 [html-report] [DEBUG] Transformed SuiteResult to report structure
+17-12-2021 22:12:35.800 [html-report] [INFO] Successfully generated html-report to => /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/reports/html-report/index.html
+17-12-2021 22:12:35.800 [html-report] [DEBUG] Done generating HTML report using theme from /Users/tuba.tosunoglu/.gauge/plugins/html-report/4.0.12/themes/default
+17-12-2021 22:12:35.800 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+17-12-2021 22:12:36.005 [Gauge] [DEBUG] Runner with PID:11775 has exited
+17-12-2021 22:12:36.005 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+17-12-2021 22:12:36.005 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+17-12-2021 22:12:36.005 [Gauge] [INFO] 
+Total time taken: 14.696s
+17-12-2021 22:12:36.006 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+17-12-2021 22:13:07.537 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/.gauge/screenshots
+17-12-2021 22:13:07.538 [Gauge] [DEBUG] Plugin html-report is already installed.
+17-12-2021 22:13:07.539 [Gauge] [DEBUG] Plugin js is already installed.
+17-12-2021 22:13:07.540 [Gauge] [DEBUG] Parsing started.
+17-12-2021 22:13:07.540 [Gauge] [DEBUG] Started concepts parsing.
+17-12-2021 22:13:07.657 [Gauge] [DEBUG] 1 concepts parsing completed.
+17-12-2021 22:13:07.657 [Gauge] [DEBUG] Started specifications parsing.
+17-12-2021 22:13:07.657 [Gauge] [DEBUG] 1 specifications parsing completed.
+17-12-2021 22:13:07.657 [Gauge] [DEBUG] Parsing completed.
+17-12-2021 22:13:07.959 [Gauge] [DEBUG] Checking updates...
+17-12-2021 22:13:07.959 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:13:07.961 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 59595
+17-12-2021 22:13:07.963 [Gauge] [DEBUG] Successfully made the connection with runner with port: 59595
+17-12-2021 22:13:07.963 [Gauge] [DEBUG] Validation started.
+17-12-2021 22:13:07.978 [Gauge] [DEBUG] Validation completed.
+17-12-2021 22:13:07.979 [Gauge] [DEBUG] Run started
+17-12-2021 22:13:07.979 [Gauge] [DEBUG] Starting Html Report plugin
+17-12-2021 22:13:07.987 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 59600
+17-12-2021 22:13:07.988 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 59600
+17-12-2021 22:13:07.988 [Gauge] [DEBUG] Initialising suite data store.
+17-12-2021 22:13:08.266 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:13:08.396 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:13:09.648 [Gauge] [INFO] # Sign In Scenarios
+17-12-2021 22:13:09.669 [Gauge] [INFO] ## Sign in success
+17-12-2021 22:13:09.792 [Gauge] [DEBUG] * Go to url
+
+17-12-2021 22:13:12.976 [Gauge] [DEBUG] * Sign in
+
+17-12-2021 22:13:21.057 [Gauge] [DEBUG] * Searchbox should be exist on home page
+17-12-2021 22:13:21.262 [html-report] [DEBUG] Transformed SuiteResult to report structure
+17-12-2021 22:13:21.274 [html-report] [INFO] Successfully generated html-report to => /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/reports/html-report/index.html
+17-12-2021 22:13:21.274 [html-report] [DEBUG] Done generating HTML report using theme from /Users/tuba.tosunoglu/.gauge/plugins/html-report/4.0.12/themes/default
+17-12-2021 22:13:21.274 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+17-12-2021 22:13:21.481 [Gauge] [DEBUG] Runner with PID:11802 has exited
+17-12-2021 22:13:21.481 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+17-12-2021 22:13:21.482 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+17-12-2021 22:13:21.482 [Gauge] [INFO] 
+Total time taken: 13.282s
+17-12-2021 22:13:21.482 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+17-12-2021 22:15:04.318 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/.gauge/screenshots
+17-12-2021 22:15:04.320 [Gauge] [DEBUG] Plugin js is already installed.
+17-12-2021 22:15:04.322 [Gauge] [DEBUG] Plugin html-report is already installed.
+17-12-2021 22:15:04.322 [Gauge] [DEBUG] Parsing started.
+17-12-2021 22:15:04.322 [Gauge] [DEBUG] Started concepts parsing.
+17-12-2021 22:15:04.459 [Gauge] [DEBUG] 1 concepts parsing completed.
+17-12-2021 22:15:04.459 [Gauge] [DEBUG] Started specifications parsing.
+17-12-2021 22:15:04.460 [Gauge] [DEBUG] 1 specifications parsing completed.
+17-12-2021 22:15:04.460 [Gauge] [DEBUG] Parsing completed.
+17-12-2021 22:15:04.816 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 59661
+17-12-2021 22:15:04.819 [Gauge] [DEBUG] Successfully made the connection with runner with port: 59661
+17-12-2021 22:15:04.819 [Gauge] [DEBUG] Validation started.
+17-12-2021 22:15:04.831 [Gauge] [DEBUG] Validation completed.
+17-12-2021 22:15:04.831 [Gauge] [DEBUG] Run started
+17-12-2021 22:15:04.832 [Gauge] [DEBUG] Starting Html Report plugin
+17-12-2021 22:15:04.836 [Gauge] [DEBUG] Checking updates...
+17-12-2021 22:15:04.837 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:15:04.886 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 59666
+17-12-2021 22:15:04.887 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 59666
+17-12-2021 22:15:04.887 [Gauge] [DEBUG] Initialising suite data store.
+17-12-2021 22:15:05.189 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:15:05.345 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:15:06.978 [Gauge] [INFO] # Sign In Scenarios
+17-12-2021 22:15:06.989 [Gauge] [INFO] ## Sign in success
+17-12-2021 22:15:06.996 [Gauge] [DEBUG] * Go to url
+
+17-12-2021 22:15:10.082 [Gauge] [DEBUG] * Sign in
+
+17-12-2021 22:15:17.015 [Gauge] [DEBUG] * Searchbox should be exist on home page
+17-12-2021 22:15:17.253 [html-report] [DEBUG] Transformed SuiteResult to report structure
+17-12-2021 22:15:17.275 [html-report] [INFO] Successfully generated html-report to => /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/reports/html-report/index.html
+17-12-2021 22:15:17.275 [html-report] [DEBUG] Done generating HTML report using theme from /Users/tuba.tosunoglu/.gauge/plugins/html-report/4.0.12/themes/default
+17-12-2021 22:15:17.275 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+17-12-2021 22:15:17.485 [Gauge] [DEBUG] Runner with PID:11853 has exited
+17-12-2021 22:15:17.486 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+17-12-2021 22:15:17.486 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+17-12-2021 22:15:17.486 [Gauge] [INFO] 
+Total time taken: 12.418s
+17-12-2021 22:15:17.488 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+17-12-2021 22:44:53.949 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/.gauge/screenshots
+17-12-2021 22:44:53.954 [Gauge] [DEBUG] Plugin js is already installed.
+17-12-2021 22:44:53.957 [Gauge] [DEBUG] Plugin html-report is already installed.
+17-12-2021 22:44:53.958 [Gauge] [DEBUG] Parsing started.
+17-12-2021 22:44:53.958 [Gauge] [DEBUG] Started concepts parsing.
+17-12-2021 22:44:54.141 [Gauge] [DEBUG] 1 concepts parsing completed.
+17-12-2021 22:44:54.141 [Gauge] [DEBUG] Started specifications parsing.
+17-12-2021 22:44:54.142 [Gauge] [DEBUG] 1 specifications parsing completed.
+17-12-2021 22:44:54.142 [Gauge] [DEBUG] Parsing completed.
+17-12-2021 22:44:54.512 [Gauge] [DEBUG] Checking updates...
+17-12-2021 22:44:54.514 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:44:54.541 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 60036
+17-12-2021 22:44:54.543 [Gauge] [DEBUG] Successfully made the connection with runner with port: 60036
+17-12-2021 22:44:54.543 [Gauge] [DEBUG] Validation started.
+17-12-2021 22:44:54.558 [Gauge] [DEBUG] Validation completed.
+17-12-2021 22:44:54.558 [Gauge] [DEBUG] Run started
+17-12-2021 22:44:54.558 [Gauge] [DEBUG] Starting Html Report plugin
+17-12-2021 22:44:54.611 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 60041
+17-12-2021 22:44:54.612 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 60041
+17-12-2021 22:44:54.612 [Gauge] [DEBUG] Initialising suite data store.
+17-12-2021 22:44:54.976 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:44:55.154 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=amd64
+17-12-2021 22:45:00.895 [Gauge] [INFO] # Sign In Scenarios
+17-12-2021 22:45:00.912 [Gauge] [INFO] ## Sign in success
+17-12-2021 22:45:00.959 [Gauge] [DEBUG] * Go to url
+
+17-12-2021 22:45:06.714 [Gauge] [DEBUG] * Sign in
+
+17-12-2021 22:45:15.618 [Gauge] [DEBUG] * Searchbox should be exist on home page
+17-12-2021 22:45:15.842 [html-report] [DEBUG] Transformed SuiteResult to report structure
+17-12-2021 22:45:15.861 [html-report] [INFO] Successfully generated html-report to => /Users/tuba.tosunoglu/TestingBootcamp/Projects/cikolatasepeti/reports/html-report/index.html
+17-12-2021 22:45:15.861 [html-report] [DEBUG] Done generating HTML report using theme from /Users/tuba.tosunoglu/.gauge/plugins/html-report/4.0.12/themes/default
+17-12-2021 22:45:15.861 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+17-12-2021 22:45:16.069 [Gauge] [DEBUG] Runner with PID:12805 has exited
+17-12-2021 22:45:16.069 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+17-12-2021 22:45:16.069 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+17-12-2021 22:45:16.069 [Gauge] [INFO] 
+Total time taken: 21.28s
+17-12-2021 22:45:16.070 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
